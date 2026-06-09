@@ -24,11 +24,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTVLCOPT:network-caching=1500
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:29 tvg-logo="" group-title="Variedades", Mexiquense TV
+#EXTINF:29 tvg-logo="https://pbs.twimg.com/profile_images/1630698738/LOGO_TELEVISI_N_MEXIQUENSE.png" group-title="Variedades", Mexiquense TV
 #EXTVLCOPT:network-caching=1500
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:40 tvg-logo="" group-title="Variedades", Multimedios CDMX
+#EXTINF:40 tvg-logo="https://images.seeklogo.com/logo-png/9/2/multimedios-logo-png_seeklogo-95972.png" group-title="Variedades", Multimedios CDMX
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
