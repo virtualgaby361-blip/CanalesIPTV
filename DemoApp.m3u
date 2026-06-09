@@ -12,15 +12,15 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", 8 NTV
+#EXTINF:30 tvg-logo="https://pbs.twimg.com/profile_images/1685821916106649600/Ry0BLhoj_400x400.jpg" group-title="Variedades", 8 NTV
 #EXTVLCOPT:network-caching=1500
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
 
-#EXTINF:102 tvg-logo="" group-title="Noticias", ADN 40
+#EXTINF:102 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/960px-XHTVM_-_ADN40.svg.png" group-title="Noticias", ADN 40
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:29 tvg-logo="" group-title="Variedades", Canal 10 Chiapas
+#EXTINF:29 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Canal_10_General_Roca_%28Logo_2020%29.png" group-title="Variedades", Canal 10 Chiapas
 #EXTVLCOPT:network-caching=1500
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
 
