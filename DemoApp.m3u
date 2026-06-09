@@ -27,9 +27,8 @@ https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsports2&token=tecno
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
 
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/dLGLySicETdqfbPyej0ecjDJOOvPR9vCjipvdFVdImuVJcT_NXZgc7PACd_jz1ZOfsKA",ECDF LigaPro (eventos)
-#EXTVLCOPT:network-caching=1000
-https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=ecdf_ligapro&token=tecnotokenplustv230516F
+
+
 #EXTINF:22,Fox Sports
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxsports&token=tecnotokenplustv230516F
