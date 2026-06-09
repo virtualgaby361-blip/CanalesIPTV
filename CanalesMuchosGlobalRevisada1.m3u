@@ -1,0 +1,1184 @@
+#EXTM3U
+#EXTINF:60,El País
+#EXTVLCOPT:network-caching=1000
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+#EXTINF:30,Vinx TV
+#EXTVLCOPT:network-caching=1000
+https://live.enfoque.media:5443/live/streams/vinxtv.m3u8
+#EXTINF:60,Real Madrid TV
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:60,Real Madrid TV EN
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:22,Futsalmafer.tv
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
+#EXTINF:59,Infantil (Canal Extremadura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+#EXTINF:23,Pequeradio TV
+#EXTVLCOPT:network-caching=1000
+https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8
+#EXTINF:66,EnerGeek Retro Mobile
+#EXTVLCOPT:network-caching=1000
+https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:74,EnerGeek Retro Web
+#EXTVLCOPT:network-caching=1000
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:20,+24
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:20,+24
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:20,+24
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:20,+24
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6108720.m3u8
+#EXTINF:36,¡HOLA! Play
+#EXTVLCOPT:network-caching=1000
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:20,Radio Nacional
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6982891.m3u8
+#EXTINF:20,Radio 3
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6982918.m3u8
+#EXTINF:20,Radio 5
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6982917.m3u8
+#EXTINF:28800,Canal Parlamento
+#EXTVLCOPT:network-caching=1000
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:300,Canal Sur Andalucía
+#EXTVLCOPT:network-caching=1000
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:72,Canal Sur Andalucía
+#EXTVLCOPT:network-caching=1000
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:30,Canal Sur 2 Accesible
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:30,Canal Sur Más Noticias
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:54,7TV Andalucía
+#EXTVLCOPT:network-caching=1000
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:54,7TV Almería
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVALMERIA.m3u8
+#EXTINF:54,7TV Cádiz
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
+#EXTINF:54,7TV Córdoba
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+#EXTINF:54,7TV Granada
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVGRANADA.m3u8
+#EXTINF:54,7TV Huelva
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/regional.m3u8
+#EXTINF:54,7TV Jaén
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+#EXTINF:54,7TV Málaga
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:54,7TV Sevilla
+#EXTVLCOPT:network-caching=1000
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
+#EXTINF:54,7TV Aljarafe
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVALJARAFE.m3u8
+#EXTINF:54,7TV Arcos
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/7TVARCOS.m3u8
+#EXTINF:10924,101TV Málaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR
+#EXTINF:12,101TV Málaga Cofrade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:cofradeott1.smil/playlist.m3u8
+#EXTINF:10924,Onda Cádiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR
+#EXTINF:36,Onda Cádiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:120,Andalucía Cocina
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+#EXTVLCOPT:network-caching=1000
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:24,8TV Sierra de Cádiz
+#EXTVLCOPT:network-caching=1000
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:24,8TV Chiclana
+#EXTVLCOPT:network-caching=1000
+https://s.emisoras.tv:8081/chiclana/index.m3u8
+#EXTINF:30,M95 Marbella
+#EXTVLCOPT:network-caching=1000
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:28,Tuya La Janda TV
+#EXTVLCOPT:network-caching=1000
+https://nimble.tuyapro.es/app/tv/playlist.m3u8
+#EXTINF:32,Onda Algeciras TV
+#EXTVLCOPT:network-caching=1000
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:60,Canal 45 TV
+#EXTVLCOPT:network-caching=1000
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:37,Costa Noroeste TV
+#EXTVLCOPT:network-caching=1000
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:5,Teleonuba
+#EXTVLCOPT:network-caching=1000
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:12,101TV Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
+#EXTINF:12,101TV Sevilla Cofrade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillacofrade2.smil/playlist.m3u8
+#EXTINF:12,101TV Cádiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+#EXTINF:12,101TV Granada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101weblive/smil:granada.smil/playlist.m3u8
+#EXTINF:12,101TV Granada Cofrade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8
+#EXTINF:12,101TV Costa del Sol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101weblive/smil:BENALMADENA.smil/playlist.m3u8
+#EXTINF:6,CanalCosta
+#EXTVLCOPT:network-caching=1000
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:6,Condavisión
+#EXTVLCOPT:network-caching=1000
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+#EXTINF:30,Canal Doñana
+#EXTVLCOPT:network-caching=1000
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:98,Interalmería TV
+#EXTVLCOPT:network-caching=1000
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:14,Almería 24h TV
+#EXTVLCOPT:network-caching=1000
+https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8
+#EXTINF:36,Marbella TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+#EXTINF:40,Estepona TV
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:30,Canal San Roque
+#EXTVLCOPT:network-caching=1000
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:9,101TV Antequera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:27,Torremolinos TV
+#EXTVLCOPT:network-caching=1000
+https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
+#EXTINF:30,Telemotril
+#EXTVLCOPT:network-caching=1000
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+#EXTINF:28,TG7
+#EXTVLCOPT:network-caching=1000
+https://flu-01.hucame.es/TG7/index.fmp4.m3u8
+#EXTINF:24,Sal TV
+#EXTVLCOPT:network-caching=1000
+https://play.agenciastreaming.com:8081/saltv/index.m3u8
+#EXTINF:18,Manilva TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:network-caching=1000
+https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8
+#EXTINF:40,Canal Málaga
+#EXTVLCOPT:network-caching=1000
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:63,Fuengirola TV
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/FTV.m3u8
+#EXTINF:52,Mijas 3.40 TV
+#EXTVLCOPT:network-caching=1000
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:72,Canal Coín
+#EXTVLCOPT:network-caching=1000
+https://canalcoin.garjim.es/hls/directo.m3u8
+#EXTINF:80,Diez TV Andújar
+#EXTVLCOPT:network-caching=1000
+https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8
+#EXTINF:155,Diez TV Las Villas
+#EXTVLCOPT:network-caching=1000
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+#EXTINF:239,Diez TV Úbeda
+#EXTVLCOPT:network-caching=1000
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:30,Parlamento de Andalucía
+#EXTVLCOPT:network-caching=1000
+https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8
+#EXTINF:30,Parlamento de Andalucía
+#EXTVLCOPT:network-caching=1000
+https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8
+#EXTINF:30,Parlamento de Andalucía
+#EXTVLCOPT:network-caching=1000
+https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8
+#EXTINF:30,Parlamento de Andalucía
+#EXTVLCOPT:network-caching=1000
+https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
+#EXTINF:8238,Aragón TV
+#EXTVLCOPT:network-caching=1000
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:72,Aragón Noticias
+#EXTVLCOPT:network-caching=1000
+https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8
+#EXTINF:904,TV Canaria (RTVC)
+#EXTVLCOPT:network-caching=1000
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:900,TV Canaria (RTVC)
+#EXTVLCOPT:network-caching=1000
+https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
+#EXTINF:20,24h Canarias
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:30,Lancelot TV
+#EXTVLCOPT:network-caching=1000
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:21,Tenerife Plus+ TV
+#EXTVLCOPT:network-caching=1000
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
+#EXTINF:32,Atlántico Televisión
+#EXTVLCOPT:network-caching=1000
+https://live.atlanticotelevision.com/hls/hi/index.m3u8
+#EXTINF:60,NORTEvisión
+#EXTVLCOPT:network-caching=1000
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:24,RTV Mogán
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:48,Noroeste TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:network-caching=1000
+https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8
+#EXTINF:29,Fuerteventura TV
+#EXTVLCOPT:network-caching=1000
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:24,Factoría de Carnaval
+#EXTVLCOPT:network-caching=1000
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:23,Afortunadas TV
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:30,Radio Calima TV
+#EXTVLCOPT:network-caching=1000
+https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8
+#EXTINF:20,De Laredu Lin TV
+#EXTVLCOPT:network-caching=1000
+https://eu1.servers10.com:8081/8034/index.m3u8
+#EXTINF:31,Popular TV Cantabria
+#EXTVLCOPT:network-caching=1000
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:48,h_200 - al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png" group-title="Cantabria" tvg-name="Tevecan 9",Tevecan 9
+#EXTVLCOPT:network-caching=1000
+https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8
+#EXTINF:46,Saja Nansa TV
+#EXTVLCOPT:network-caching=1000
+https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8
+#EXTINF:7200,Castilla-La Mancha Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
+#EXTINF:7192,Castilla-La Mancha Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_fmx3e3sd/protocol/https/format/applehttp/a.m3u8
+#EXTINF:33,TV Hellín
+#EXTVLCOPT:network-caching=1000
+https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8
+#EXTINF:30,Alcarria TV
+#EXTVLCOPT:network-caching=1000
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:30,Alcarria TV
+#EXTVLCOPT:network-caching=1000
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:30,Canal 4 Mancha Centro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:59,Canal 2000
+#EXTVLCOPT:network-caching=1000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:20,24h Catalunya
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:20,Ràdio 4
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6982935.m3u8
+#EXTINF:7200,Bon Dia TV
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:7194,betevé
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:30,Canal 4 TV Cataluña
+#EXTVLCOPT:network-caching=1000
+https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
+#EXTINF:40,Canal Terres de l'Ebre
+#EXTVLCOPT:network-caching=1000
+https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
+#EXTINF:24,Canal Reus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8
+#EXTINF:4,Empordà TV
+#EXTVLCOPT:network-caching=1000
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:11,BDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:24,TAC 12
+#EXTVLCOPT:network-caching=1000
+https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
+#EXTINF:24,Canal Terrassa
+#EXTVLCOPT:network-caching=1000
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:12,TV Costa Brava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:10918,TV L'Hospitalet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
+#EXTINF:12,RTV El Vendrell
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8
+#EXTINF:25,VOTV
+#EXTVLCOPT:network-caching=1000
+https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
+#EXTINF:24,Canal Taronja Osona i Moianés
+#EXTVLCOPT:network-caching=1000
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:12,Penedès TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:28,Piera TV
+#EXTVLCOPT:network-caching=1000
+https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8
+#EXTINF:10924,RTV Cardedeu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:1803,Canal 10 Empordà
+#EXTVLCOPT:network-caching=1000
+https://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:12,Vallès Visió
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:12,etv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:100,Mar TV
+#EXTVLCOPT:network-caching=1000
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:24,TV Sabadell Vallès
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+#EXTINF:7200,3CAT Càmeres del temps
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:97,Teleganés
+#EXTVLCOPT:network-caching=1000
+https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:60,Distrito TV
+#EXTVLCOPT:network-caching=1000
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:32,Déjate de Historias TV
+#EXTVLCOPT:network-caching=1000
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
+#EXTINF:28,iPROtv
+#EXTVLCOPT:network-caching=1000
+https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
+#EXTINF:32,C33 Madrid
+#EXTVLCOPT:network-caching=1000
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+#EXTINF:48,KUBO TV
+#EXTVLCOPT:network-caching=1000
+https://249807.global.ssl.fastly.net/68ce6783e24d0e8c2921aec8/live_877841b0996411f0a0647dde7e4bde90/index.m3u8
+#EXTINF:29,LIRA TV
+#EXTVLCOPT:network-caching=1000
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:31,TeleRibera
+#EXTVLCOPT:network-caching=1000
+https://video3.lhdserver.es/teleribera/live.m3u8
+#EXTINF:15908,Parlamento de Navarra
+#EXTVLCOPT:network-caching=1000
+https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR
+#EXTINF:14290,Parlamento de Navarra
+#EXTVLCOPT:network-caching=1000
+https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR
+#EXTINF:5534,Parlamento de Navarra
+#EXTVLCOPT:network-caching=1000
+https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR
+#EXTINF:72,8 La Marina TV
+#EXTVLCOPT:network-caching=1000
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:60,Intercomarcal TV
+#EXTVLCOPT:network-caching=1000
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:60,Intercomarcal TV
+#EXTVLCOPT:network-caching=1000
+https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
+#EXTINF:60,Intercomarcal TV
+#EXTVLCOPT:network-caching=1000
+https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
+#EXTINF:21,7 TeleValencia
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:36,TeleElx
+#EXTVLCOPT:network-caching=1000
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:32,Ribera TV
+#EXTVLCOPT:network-caching=1000
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:36,La 8 Mediterráneo
+#EXTVLCOPT:network-caching=1000
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+#EXTINF:46,Burriana TV
+#EXTVLCOPT:network-caching=1000
+https://stream.burrianateve.com/hls/abr_btv/index.m3u8
+#EXTINF:60,TV 4 La Vall
+#EXTVLCOPT:network-caching=1000
+https://valldeuxo.gestec-video.com/hls/lavall.m3u8
+#EXTINF:60,Distrito TV Valencia
+#EXTVLCOPT:network-caching=1000
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:36,Elche 7 TV
+#EXTVLCOPT:network-caching=1000
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:18,Tele Safor
+#EXTVLCOPT:network-caching=1000
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:24,Canal 56
+#EXTVLCOPT:network-caching=1000
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:30,Univers TV
+#EXTVLCOPT:network-caching=1000
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:33,Radio Buñol TV
+#EXTVLCOPT:network-caching=1000
+https://radiotvbunollive.flumotion.cloud/radiotvbunollive/smil:channel1.smil/playlist.m3u8
+#EXTINF:45,TV Almassora
+#EXTVLCOPT:network-caching=1000
+https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8
+#EXTINF:10,Punt 3 Vall Uixó
+#EXTVLCOPT:network-caching=1000
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:25,Onda 15 TV
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:36,Canal 3 Biar
+#EXTVLCOPT:network-caching=1000
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:22,Ciudades Del Ocio TV
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:23,Onda Valencia
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:60,Une Vinalopó
+#EXTVLCOPT:network-caching=1000
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:31,33TV Catarroja
+#EXTVLCOPT:network-caching=1000
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+#EXTINF:7194,Canal Extremadura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+#EXTINF:59,Toros (Canal Extremadura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
+#EXTINF:59,Semos asina (Canal Extremadura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:network-caching=1000
+https://cdn-canalextremadura.watchity.net/fast3/master.m3u8
+#EXTINF:24,TVG
+#EXTVLCOPT:network-caching=1000
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:29,TVG Xabarin
+#EXTVLCOPT:network-caching=1000
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:24,TVG Eventos
+#EXTVLCOPT:network-caching=1000
+https://crtvg-events1.flumotion.cloud/playlist.m3u8
+#EXTINF:24,TVG Eventos
+#EXTVLCOPT:network-caching=1000
+https://crtvg-events2.flumotion.cloud/playlist.m3u8
+#EXTINF:24,TVG Eventos
+#EXTVLCOPT:network-caching=1000
+https://crtvg-events3.flumotion.cloud/playlist.m3u8
+#EXTINF:30,TVG Mira Radio Galega
+#EXTVLCOPT:network-caching=1000
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:27,Corenta anos da TVG
+#EXTVLCOPT:network-caching=1000
+https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/playlist.m3u8
+#EXTINF:119,TV Ferrol
+#EXTVLCOPT:network-caching=1000
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:24,Telemiño
+#EXTVLCOPT:network-caching=1000
+https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
+#EXTINF:120,Anove TV
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
+#EXTINF:120,TEF
+#EXTVLCOPT:network-caching=1000
+https://tef.servertv.online:3268/live/teflive.m3u8
+#EXTINF:30,Canal 4 TV Mallorca
+#EXTVLCOPT:network-caching=1000
+https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8
+#EXTINF:22,Fibwi Diario
+#EXTVLCOPT:network-caching=1000
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+#EXTINF:26,Popular TV Melilla
+#EXTVLCOPT:network-caching=1000
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+#EXTINF:300,ETB 1
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/etb1/index.m3u8
+#EXTINF:300,ETB 2
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/etb2/index.m3u8
+#EXTINF:300,ETB1 ON
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:300,ETB2 ON
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:300,ETB Eventos 1
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:300,Euskadi Meteo (ETB On)
+#EXTVLCOPT:network-caching=1000
+https://cdn1.etbon.eus/meteo/index.m3u8
+#EXTINF:100,Hamaika TV
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:24,Tele 7
+#EXTVLCOPT:network-caching=1000
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:312,Goiena Eus
+#EXTVLCOPT:network-caching=1000
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:60,Durangaldeko TV
+#EXTVLCOPT:network-caching=1000
+https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:120,Goierri Irrati TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.gitb.eus/hls/z.m3u8
+#EXTINF:120,28 Kanala
+#EXTVLCOPT:network-caching=1000
+https://streaming.28kanala.eus/hls/z.m3u8
+#EXTINF:39,TeleBilbao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://www.telebilbao.es/directo/
+#EXTVLCOPT:network-caching=1000
+https://player.telebilbao.es/hls/web-public/live.m3u8
+#EXTINF:120,GUKA TB
+#EXTVLCOPT:network-caching=1000
+https://streaming.ukt.eus/hls/test.m3u8
+#EXTINF:28,Urola TV
+#EXTVLCOPT:network-caching=1000
+https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8
+#EXTINF:37,STZ Telebista
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:71,Canal 1 Mar Menor Torre Pacheco
+#EXTVLCOPT:network-caching=1000
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:80,Arabí TV
+#EXTVLCOPT:network-caching=1000
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:7200,Star TVE Europa
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:7200,TV3.CAT
+#EXTVLCOPT:network-caching=1000
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:7193,TVG Europa
+#EXTVLCOPT:network-caching=1000
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:186,ATV Andorra
+#EXTVLCOPT:network-caching=1000
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+#EXTINF:60,CNN Internacional
+#EXTVLCOPT:network-caching=1000
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:42,Bloomberg Europe EN
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:63,BFM TV Francia FR
+#EXTVLCOPT:network-caching=1000
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:708,La7 Italia IT
+#EXTVLCOPT:network-caching=1000
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:1800,DW Alemania
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:1800,DW Alemania EN
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:7200,Tagesschau24 Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:7200,ARD Das Erste Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:7200,WDR Westdeutschen Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:7200,NDR Niedersachsen Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:7200,BR Bayerischer Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+#EXTINF:7200,HR Hessenschau Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+#EXTINF:7200,SR Saarland Alemania DE
+#EXTVLCOPT:network-caching=1000
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:1795,Sky News Reino Unido EN
+#EXTVLCOPT:network-caching=1000
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:60,GB News Reino Unido EN
+#EXTVLCOPT:network-caching=1000
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:102,Digi24 Rumanía RO
+#EXTVLCOPT:network-caching=1000
+https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+#EXTINF:60,TRT World Turquía EN
+#EXTVLCOPT:network-caching=1000
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT World Turquía
+#EXTVLCOPT:network-caching=1000
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:23,RTCG SAT Montenegro
+#EXTVLCOPT:network-caching=1000
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:7200,RÚV Islandia
+#EXTVLCOPT:network-caching=1000
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:7200,RÚV Islandia
+#EXTVLCOPT:network-caching=1000
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:14,TVService
+#EXTVLCOPT:network-caching=1000
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:60,VizionPlus Albania
+#EXTVLCOPT:network-caching=1000
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:30,Channel 24 Ucrania
+#EXTVLCOPT:network-caching=1000
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:100,Current Time TV
+#EXTVLCOPT:network-caching=1000
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8
+#EXTINF:60,CBS News USA EN
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:35,Cheddar USA EN
+#EXTVLCOPT:network-caching=1000
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:49,Bloomberg USA EN
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:50,Bloomberg USA EN
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:34,CourtTV USA EN
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:60,WeatherNation USA
+#EXTVLCOPT:network-caching=1000
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:50,America's Voice USA EN
+#EXTVLCOPT:network-caching=1000
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+#EXTINF:60,BUZZR TV USA EN
+#EXTVLCOPT:network-caching=1000
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+#EXTINF:18,Newsmax TV USA EN
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:36,Newsmax TV USA EN
+#EXTVLCOPT:network-caching=1000
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:60,America TeVe USA
+#EXTVLCOPT:network-caching=1000
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:40,Canal 6 Multimedios Mexico
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:102,ADN Noticias Mexico
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:17,Canal Once Mexico
+#EXTVLCOPT:network-caching=1000
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:30,Quiero TV Mexico
+#EXTVLCOPT:network-caching=1000
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:30,Mexico Travel TV
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:60,Estrella TV Mexico
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:60,Estrella TV Mexico
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+#EXTINF:60,Estrella TV Mexico
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:80,TELE 10 Nayarit Mexico
+#EXTVLCOPT:network-caching=1000
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:10924,Teleantioquia Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF:30,Señal Colombia
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:23,Telepacifico Colombia
+#EXTVLCOPT:network-caching=1000
+https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:17,Telepacifico Colombia
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/023/playlist.m3u8
+#EXTINF:5351,Canal Telecaribe Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:5355,Canal Telecaribe Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8?DVR
+#EXTINF:12,Canal TRO Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:network-caching=1000
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:22,Exitosa Noticias Perú
+#EXTVLCOPT:network-caching=1000
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:25,Latina Perú
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:25,Latina Perú
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#EXTINF:50,Latina Perú
+#EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:24,Cosmos TV Perú
+#EXTVLCOPT:network-caching=1000
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:64,TeleSUR Venezuela
+#EXTVLCOPT:network-caching=1000
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:30,Globovision Venezuela
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:24,Ecuador TV Ecuador
+#EXTVLCOPT:network-caching=1000
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:4894,Oromar TV Ecuador
+#EXTVLCOPT:network-caching=1000
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:40,Cubavisión TV Cuba
+#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
+#EXTVLCOPT:network-caching=1000
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:20,WTV Nicaragua
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:40,TeleDiario Costa Rica
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:46,WIPR Puerto Rico
+#EXTVLCOPT:network-caching=1000
+https://streamwipr.pr/hls/stream/index.m3u8
+#EXTINF:6,TV Cultura Brasil
+#EXTVLCOPT:network-caching=1000
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:18,CGTN China
+#EXTVLCOPT:network-caching=1000
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,CGTN China
+#EXTVLCOPT:network-caching=1000
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:24,CGTN News China EN
+#EXTVLCOPT:network-caching=1000
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:24,CGTN Documentary China EN
+#EXTVLCOPT:network-caching=1000
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:60,Al Jazeera Catar EN
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:60,Al Jazeera Catar AR
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:36,NHK World Japón EN
+#EXTVLCOPT:network-caching=1000
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:30,Arirang TV Corea del Sur EN
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:40,Al Arabiya Emiratos Árabes AR
+#EXTVLCOPT:network-caching=1000
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:60,India Today EN
+#EXTVLCOPT:network-caching=1000
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:60,India Today
+#EXTVLCOPT:network-caching=1000
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:40,New Delhi TV 24x7 India EN
+#EXTVLCOPT:network-caching=1000
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:60,Republic World TV India EN
+#EXTVLCOPT:network-caching=1000
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+#EXTINF:80,Hispan TV Iran
+#EXTVLCOPT:network-caching=1000
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:40,Channel NewsAsia EN
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:32,TVK Camboya
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:32,TVK Camboya
+#EXTVLCOPT:network-caching=1000
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:30,RTHK 31 32 Hong Kong
+#EXTVLCOPT:network-caching=1000
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:30,Teledifusão de Macau PT
+#EXTVLCOPT:network-caching=1000
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:30,Teledifusão de Macau
+#EXTVLCOPT:network-caching=1000
+https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:30,Teledifusão de Macau
+#EXTVLCOPT:network-caching=1000
+https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:21594,Medi1 TV Marruecos
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+#EXTINF:21592,Medi1 TV Marruecos
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+#EXTINF:21596,Medi1 TV Marruecos
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:30,TVGE 1 Guinea Ecuatorial
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
+#EXTINF:60,ABC News Australia EN
+#EXTVLCOPT:network-caching=1000
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:60,Bloomberg Quicktake EN
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:36,Tastemade
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:60,Tastemade EN
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8
+#EXTINF:50,FTV-SMART-TRANSCODE
+#EXTVLCOPT:network-caching=1000
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:60,Miami TV Gold
+#EXTVLCOPT:network-caching=1000
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
+#EXTINF:120,Classic Arts Showcase EN
+#EXTVLCOPT:network-caching=1000
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:120,AKC TV Dogs EN
+#EXTVLCOPT:network-caching=1000
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:120,AKC TV Dogs EN
+#EXTVLCOPT:network-caching=1000
+https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
+#EXTINF:60,ServusTV WetterPanorama
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+#EXTINF:180,Red Bull TV EN
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:60,Stadium USA EN
+#EXTVLCOPT:network-caching=1000
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:36,Garage TV Argentina
+#EXTVLCOPT:network-caching=1000
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:24,MoreThanSports TV
+#EXTVLCOPT:network-caching=1000
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:60,Sol Música España
+#EXTVLCOPT:network-caching=1000
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:43,Activa TV España
+#EXTVLCOPT:network-caching=1000
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:1800,Molahits TV España
+#EXTVLCOPT:network-caching=1000
+https://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:21,Cadena Elite España
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:24,Spektra TV España
+#EXTVLCOPT:network-caching=1000
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:1800,Radio Italia TV IT
+#EXTVLCOPT:network-caching=1000
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:18,RTL 102.5 Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:18,RTL Radio Freccia Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:18,RTL Zeta Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Best Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Disco Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Caliente Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Napulè Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:18,RTL 102.5 Traffic Italia IT
+#EXTVLCOPT:network-caching=1000
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:60,RDS Social TV Italia IT
+#EXTVLCOPT:network-caching=1000
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:18,m2o Italia IT
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:18,Radio Capital Italia IT
+#EXTVLCOPT:network-caching=1000
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:29,70-80's Italia IT
+#EXTVLCOPT:network-caching=1000
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:24,On TV Portugal
+#EXTVLCOPT:network-caching=1000
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:2700,Kronehit Austria
+#EXTVLCOPT:network-caching=1000
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:57,QMusic Países Bajos NL
+#EXTVLCOPT:network-caching=1000
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:20,Ocko Chequia CZ
+#EXTVLCOPT:network-caching=1000
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:20,Star Chequia CZ
+#EXTVLCOPT:network-caching=1000
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:20,Expres Chequia CZ
+#EXTVLCOPT:network-caching=1000
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:30,Retro Music TV Chequia EN
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:38,4FUN TV Polonia PL
+#EXTVLCOPT:network-caching=1000
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:30,Number1 FM Turquía
+#EXTVLCOPT:network-caching=1000
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:31,Power TV Turquía
+#EXTVLCOPT:network-caching=1000
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:14,NRG91 Grecia
+#EXTVLCOPT:network-caching=1000
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:30,CMC Croacia
+#EXTVLCOPT:network-caching=1000
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:24,Sky Folk Macedonia
+#EXTVLCOPT:network-caching=1000
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:14,1Muz Bielorrusia
+#EXTVLCOPT:network-caching=1000
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:15,1Muz Bielorrusia
+#EXTVLCOPT:network-caching=1000
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:30,VM Latino Costa Rica
+#EXTVLCOPT:network-caching=1000
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:29,Venus Media Paraguay
+#EXTVLCOPT:network-caching=1000
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:75,La Mega Mundial USA
+#EXTVLCOPT:network-caching=1000
+https://server40.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:30,Retro Plus TV Chile
+#EXTVLCOPT:network-caching=1000
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:28,Portal Foxmix Chile
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:173,30A Music USA EN
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:60,Ditty TV USA EN
+#EXTVLCOPT:network-caching=1000
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
+#EXTINF:22,Spirit TV USA EN
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:22,RadioU TV USA EN
+#EXTVLCOPT:http-referrer=https://radiou.com/tv/
+#EXTVLCOPT:network-caching=1000
+https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+#EXTINF:10,Dance TV Estonia
+#EXTVLCOPT:network-caching=1000
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
+#EXTINF:24,V2Beat TV EN
+#EXTVLCOPT:network-caching=1000
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:29,Ecclesia COPE España
+#EXTVLCOPT:network-caching=1000
+https://cope-religion-video.flumotion.com/playlist.m3u8
+#EXTINF:30,Solidaria TV España
+#EXTVLCOPT:network-caching=1000
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:30,RTV Vida España
+#EXTVLCOPT:network-caching=1000
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:62,RTV Diocesana Toledo España
+#EXTVLCOPT:network-caching=1000
+https://live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:75,TBN España
+#EXTVLCOPT:network-caching=1000
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:60,Cetelmon TV España
+#EXTVLCOPT:network-caching=1000
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:14,María Visión España y Mexico
+#EXTVLCOPT:network-caching=1000
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiatre/playlist.m3u8
+#EXTINF:16,María Visión España y Mexico
+#EXTVLCOPT:network-caching=1000
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:100,EWTN
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:100,EWTN EN
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:30,Enlace TV Costa Rica
+#EXTVLCOPT:network-caching=1000
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:60,Redevida Brasil PT
+#EXTVLCOPT:network-caching=1000
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:36,3ABN USA
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:36,3ABN USA EN
+#EXTVLCOPT:network-caching=1000
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
