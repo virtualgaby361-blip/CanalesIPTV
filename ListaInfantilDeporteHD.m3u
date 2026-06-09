@@ -1,325 +1,325 @@
-#EXTM3U
-#EXTINF:11,Cartoon Network
+﻿#EXTM3U
+#EXTINF:3,Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Claro Sports 3 HD
+#EXTINF:3,Claro Sports 3 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a024&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,DE PELICULA
+#EXTINF:3,DE PELICULA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,DISTRITO COMEDIA
+#EXTINF:3,DISTRITO COMEDIA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN  4 HD
+#EXTINF:3,ESPN  4 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a028&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TV-101
+#EXTINF:3,TV-101
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,LAS ESTRELLAS 2
+#EXTINF:3,LAS ESTRELLAS 2
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,LAS ESTRELLAS LEGAL
+#EXTINF:3,LAS ESTRELLAS LEGAL
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,PENIEL FAMILIAR HUEHUE
+#EXTINF:3,PENIEL FAMILIAR HUEHUE
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a021&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,LA LIGA
+#EXTINF:3,LA LIGA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TELEMUNDO MIAMI IX
+#EXTINF:3,TELEMUNDO MIAMI IX
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TIGO GT
+#EXTINF:3,TIGO GT
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TL NOVELAS
+#EXTINF:3,TL NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TN23 HD
+#EXTINF:3,TN23 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a025&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TUDN
+#EXTINF:3,TUDN
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05q&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TeleMicro - TeleMicro - RD
+#EXTINF:3,TeleMicro - TeleMicro - RD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a027&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Vea Canal
+#EXTINF:3,Vea Canal
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Baby First
+#EXTINF:3,Baby First
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a03i&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Boomerang
+#EXTINF:3,Boomerang
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,CARTOON NT HD
+#EXTINF:3,CARTOON NT HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,CARTOON NT HD (clone)
+#EXTINF:3,CARTOON NT HD (clone)
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Discovery Kids
+#EXTINF:3,Discovery Kids
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Disney JR
+#EXTINF:3,Disney JR
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Disney
+#EXTINF:3,Disney
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,SEMILLITAS
+#EXTINF:3,SEMILLITAS
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Tooncast
+#EXTINF:3,Tooncast
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a03k&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Adult Swim
+#EXTINF:3,Adult Swim
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal 11 - GUA
+#EXTINF:3,Canal 11 - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal 13-GUA
+#EXTINF:3,Canal 13-GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal 3 - GUA
+#EXTINF:3,Canal 3 - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal 7 - GUA
+#EXTINF:3,Canal 7 - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal Antigua - GUA
+#EXTINF:3,Canal Antigua - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal Azteca - GUA
+#EXTINF:3,Canal Azteca - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal Guatevision - GUA
+#EXTINF:3,Canal Guatevision - GUA
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0fw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Concert Channel
+#EXTINF:3,Concert Channel
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Exa TV
+#EXTINF:3,Exa TV
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,EWTN
+#EXTINF:3,EWTN
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a04x&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,La voz de Maria
+#EXTINF:3,La voz de Maria
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0id&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,RHEMA TV
+#EXTINF:3,RHEMA TV
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0iw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Sembrador
+#EXTINF:3,Sembrador
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0k0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TBN Enlace
+#EXTINF:3,TBN Enlace
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Claro Sports  HD
+#EXTINF:3,Claro Sports  HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN 2 HD
+#EXTINF:3,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN 3 HD
+#EXTINF:3,ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN 5 HD
+#EXTINF:3,ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN 6 HD
+#EXTINF:3,ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,ESPN HD
+#EXTINF:3,ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Golf Channel HD
+#EXTINF:3,Golf Channel HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Tigo Sports HD
+#EXTINF:3,Tigo Sports HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a02v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Pasiones HD
+#EXTINF:3,Pasiones HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,RCN Novelas
+#EXTINF:3,RCN Novelas
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Telemundo HD
+#EXTINF:3,Telemundo HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Univision HD
+#EXTINF:3,Univision HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,AZ click HD
+#EXTINF:3,AZ click HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Azcorazon
+#EXTINF:3,Azcorazon
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Azmundo
+#EXTINF:3,Azmundo
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h8&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,DISCOVERY THEATHER HD
+#EXTINF:3,DISCOVERY THEATHER HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Discovery Channel HD
+#EXTINF:3,Discovery Channel HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Discovery ID HD
+#EXTINF:3,Discovery ID HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Discovery Turbo
+#EXTINF:3,Discovery Turbo
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ia&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Discovery World HD
+#EXTINF:3,Discovery World HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,El Gourmet
+#EXTINF:3,El Gourmet
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,FX HD
+#EXTINF:3,FX HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HBO Family HD
+#EXTINF:3,HBO Family HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HBO HD
+#EXTINF:3,HBO HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HBO Plus HD
+#EXTINF:3,HBO Plus HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0l4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HBO XTREME HD
+#EXTINF:3,HBO XTREME HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HBO2 HD
+#EXTINF:3,HBO2 HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,H2
+#EXTINF:3,H2
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,History Channel HD
+#EXTINF:3,History Channel HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,SONY HD
+#EXTINF:3,SONY HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Sony Movies HD
+#EXTINF:3,Sony Movies HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,STAR CHANNEL HD
+#EXTINF:3,STAR CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,STAR LIFE
+#EXTINF:3,STAR LIFE
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Sun Channel
+#EXTINF:3,Sun Channel
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TNT HD
+#EXTINF:3,TNT HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TNT Novelas
+#EXTINF:3,TNT Novelas
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TNT Series HD
+#EXTINF:3,TNT Series HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL CINEMA HD
+#EXTINF:3,UNIVERSAL CINEMA HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL COMEDY HD
+#EXTINF:3,UNIVERSAL COMEDY HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL CRIME HD
+#EXTINF:3,UNIVERSAL CRIME HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL PREMIERE HD
+#EXTINF:3,UNIVERSAL PREMIERE HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL PREMIERE O HD
+#EXTINF:3,UNIVERSAL PREMIERE O HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,UNIVERSAL REALITY HD
+#EXTINF:3,UNIVERSAL REALITY HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,AMC HD
+#EXTINF:3,AMC HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,AXN HD
+#EXTINF:3,AXN HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Animal Planet HD
+#EXTINF:3,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,CINECANAL HD
+#EXTINF:3,CINECANAL HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hq&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,CNNE
+#EXTINF:3,CNNE
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gi&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Canal Claro
+#EXTINF:3,Canal Claro
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0fv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Cine Latino
+#EXTINF:3,Cine Latino
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,CineMax
+#EXTINF:3,CineMax
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,DHE HD
+#EXTINF:3,DHE HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,E! Entertairment HD
+#EXTINF:3,E! Entertairment HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Film & arts HD
+#EXTINF:3,Film & arts HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Golden
+#EXTINF:3,Golden
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jv&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,HOLA! TV HD
+#EXTINF:3,HOLA! TV HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hx&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Home & Health HD
+#EXTINF:3,Home & Health HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,LIFE TIME
+#EXTINF:3,LIFE TIME
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Multipremier
+#EXTINF:3,Multipremier
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Nat Geo HD
+#EXTINF:3,Nat Geo HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,SPACE HD
+#EXTINF:3,SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Star TVE HD
+#EXTINF:3,Star TVE HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TCM
+#EXTINF:3,TCM
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TLC
+#EXTINF:3,TLC
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,TVE
+#EXTINF:3,TVE
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a04y&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,Universal
+#EXTINF:3,Universal
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ih&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:11,WARNER HD
+#EXTINF:3,WARNER HD
 #EXTVLCOPT:network-caching=1000
 http://tecnotv.club/p2e2/phpcode/android2.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
