@@ -2,22 +2,22 @@
 #EXTINF:24 tvg-logo="https://m.media-amazon.com/images/I/21h-OE4-X7L.png" ,espn1_co
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn&token=tecnotokenplustv230516F
-#EXTINF:24,espn 2
+#EXTINF:24 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",espn 2
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn2&token=tecnotokenplustv230516F
-#EXTINF:0,ESPN 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsizj2OAjdh4eSVIfOHcBeZoWxZjkx4k1AQ&s",ESPN 3
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn3&token=tecnotokenplustv230516F
-#EXTINF:0,ESPN 4
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2jxFfd93rQkRIGYg0D2nnRBolW4UIwCsfg&s",ESPN 4
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn4&token=tecnotokenplustv230516F
-#EXTINF:0,ESPN 5
+#EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN5.png.31b1c1badbe398c829e754a930a931cd.png" ,ESPN 5
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn5&token=tecnotokenplustv230516F
-#EXTINF:0,ESPN 6
+#EXTINF:0tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png"  ,ESPN 6
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
-#EXTINF:0,DS SPORT
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj",DS SPORT
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsport&token=tecnotokenplustv230516F
 #EXTINF:0,DS SPORT 2
