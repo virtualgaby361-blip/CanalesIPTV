@@ -32,11 +32,11 @@ https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:40 tvg-logo="" group-title="Variedades", Multimedios Guadalajara
+#EXTINF:40 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkhTrVpXkdkqeAXhKgkyzk25vgma39mB3bA&s" group-title="Variedades", Multimedios Guadalajara
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
-#EXTINF:40 tvg-logo="" group-title="Variedades", Multimedios Laguna
+#EXTINF:40 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthfTh6xTw2KyJe-cxi9uzHErPC0cnF18bsQ&s" group-title="Variedades", Multimedios Laguna
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
@@ -44,23 +44,23 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", SIZART Canal 24 Zacatecas
+#EXTINF:30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOup5mef6THBgHjNBrT_vhPCj__UgNyLwAPw&s" group-title="Variedades", SIZART Canal 24 Zacatecas
 #EXTVLCOPT:network-caching=1500
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
 
-#EXTINF:100 tvg-logo="" group-title="Música", Teleritmo
+#EXTINF:100 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/4/4a/Teleritmo_2007.svg/revision/latest?cb=20250719150536" group-title="Música", Teleritmo
 #EXTVLCOPT:network-caching=1500
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", TVP Culiacan
+#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TVPacifico_logo.png/revision/latest/scale-to-width-down/340?cb=20230309170915&path-prefix=es" group-title="Variedades", TVP Culiacan
 #EXTVLCOPT:network-caching=1500
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 
-#EXTINF:27 tvg-logo="" group-title="Variedades", TVP Los Mochis
+#EXTINF:27 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TVPacifico_logo.png/revision/latest/scale-to-width-down/340?cb=20230309170915&path-prefix=es" group-title="Variedades", TVP Los Mochis
 #EXTVLCOPT:network-caching=1500
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", TVP Mazatlan
+#EXTINF:30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR53UMPu4o2Vt87xAeTklN9pnD63arbiyRmg&s" group-title="Variedades", TVP Mazatlan
 #EXTVLCOPT:network-caching=1500
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
@@ -68,15 +68,15 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.
 #EXTVLCOPT:network-caching=1500
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", UMTV
+#EXTINF:30 tvg-logo="https://i.ytimg.com/vi/XZNJOggURSY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLACCIk2Z8gBJZxhPptiEe32fFAJcA" group-title="Variedades", UMTV
 #EXTVLCOPT:network-caching=1500
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", AMX MÉXICO
+#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/4/4b/Captura_de_pantalla_2020-06-23_a_la%28s%29_3.21.47_p._m..png/revision/latest?cb=20200623202910&path-prefix=es" group-title="Variedades", AMX MÉXICO
 #EXTVLCOPT:network-caching=1500
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:30 tvg-logo="" group-title="Variedades", Alcance TV
+#EXTINF:30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcckyryoba50ONlqWvSTXgkMS5TbSdjQfWPQ&s" group-title="Variedades", Alcance TV
 #EXTVLCOPT:network-caching=1500
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
