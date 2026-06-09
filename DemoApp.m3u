@@ -80,31 +80,31 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:73 tvg-logo="" group-title="Entretenimiento", EnerGeek Retro Web
+#EXTINF:73 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrU0KCJLMGHsJTwxBqY9w3cIZrPuCOJIi1PQ&s" group-title="Entretenimiento", EnerGeek Retro Web
 #EXTVLCOPT:network-caching=1500
 https://cdn.energeek.cl/hls/energeekretro.m3u8
 
-#EXTINF:73 tvg-logo="" group-title="Entretenimiento", EnerGeek Fan
+#EXTINF:73 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrU0KCJLMGHsJTwxBqY9w3cIZrPuCOJIi1PQ&s" group-title="Entretenimiento", EnerGeek Fan
 #EXTVLCOPT:network-caching=1500
 https://cdn.energeek.cl/hls/energeekfan.m3u8
 
-#EXTINF:68 tvg-logo="" group-title="Música", EnerGeek Radio
+#EXTINF:68 tvg-logo="https://energeek.cl/wp-content/uploads/2025/09/550623568_122149225586660728_779918742161480375_n-1024x379.webp" group-title="Música", EnerGeek Radio
 #EXTVLCOPT:network-caching=1500
 https://cdn.energeek.cl/hls/energeekradio.m3u8
 
-#EXTINF:20 tvg-logo="" group-title="Entretenimiento", PRIDEtv Latam Web
+#EXTINF:20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqf3b4qfirtdgX52bMab0YE1A68UEGX5Zkng&s" group-title="Entretenimiento", PRIDEtv Latam Web
 #EXTVLCOPT:network-caching=1500
 https://cdn.energeek.cl/hls/pridetvlatam.m3u8
 
-#EXTINF:23 tvg-logo="" group-title="Entretenimiento", DreikoTV
+#EXTINF:23 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2908-800x450-FFFFFF.jpg" group-title="Entretenimiento", DreikoTV
 #EXTVLCOPT:network-caching=1500
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:120 tvg-logo="" group-title="Cine", CINDIE
+#EXTINF:120 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxaYXhHR1UslSX5otM2zhduN49pTGssc5kw&s" group-title="Cine", CINDIE
 #EXTVLCOPT:network-caching=1500
 http://tecnotv.club/p2e2/phpcode/distro.php?c=cindie-tv
 
-#EXTINF:36 tvg-logo="" group-title="Música", 98.1 Pearl FM (720p)
+#EXTINF:36 tvg-logo="https://cdn-radiotime-logos.tunein.com/s90601g.png" group-title="Música", 98.1 Pearl FM (720p)
 #EXTVLCOPT:network-caching=1500
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 
@@ -116,39 +116,39 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 
-#EXTINF:102 tvg-logo="" group-title="Variedades", 13 Festival (1080p)
+#EXTINF:102 tvg-logo="https://lh5.googleusercontent.com/proxy/FT21GpNLeGRh7j66YBzjl39RU7J6nn9JOg0xmkMwEDprouffvt9RJKoIln6MoTGXtO8YZHcGkqZuWZlw0cAQBtfsut8R4n1OLmCl9X92tIgK7hc" group-title="Variedades", 13 Festival (1080p)
 #EXTVLCOPT:network-caching=1500
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:62 tvg-logo="" group-title="Música", Stingray Classic Rock
+#EXTINF:62 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Música", Stingray Classic Rock
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray Classica
+#EXTINF:66 tvg-logo="https://logowik.com/content/uploads/images/stingray-classica8017.logowik.com.webp" group-title="Música", Stingray Classica
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray CMusic
+#EXTINF:66 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/C_MUSIC_2010.jpg/revision/latest?cb=20150309170242" group-title="Música", Stingray CMusic
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray DJAZZ
+#EXTINF:66 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/DJazz_TV.svg/revision/latest?cb=20191114123614" group-title="Música", Stingray DJAZZ
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray Easy Listening
+#EXTINF:66 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9300cb7f-9eef-4e0f-b0d3-d7469da72cda%2FEASY_LISTENING.png" group-title="Música", Stingray Easy Listening
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray Flashback 70s
+#EXTINF:66 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F32c9c7ca-8544-4434-92c5-9a5dd9577746%2Fflashback_70srdx.png" group-title="Música", Stingray Flashback 70s
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray Hit List
+#EXTINF:66 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sGxgA-jAJNRLjjTa6xXgYBrBpuYYsSAgfA&s" group-title="Música", Stingray Hit List
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:66 tvg-logo="" group-title="Música", Stingray Holiday Hits
+#EXTINF:66 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1280px-Stingray_Music_logo.svg.png" group-title="Música", Stingray Holiday Hits
 #EXTVLCOPT:network-caching=1500
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
@@ -232,225 +232,70 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 #EXTVLCOPT:network-caching=1500
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
-#EXTM3U
 
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0 
+ tvg-logo="## Logo card" group-title="Title Chanel", Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=movistar&token=tecnotokenplustv230516F
+#EXTINF:0
+ tvg-logo="## Logo card" group-title="Title Chanel",  Win Sports Plus
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=winsportsplus&token=tecnotokenplustv230516F
+#EXTINF:0
+ tvg-logo="## Logo card" group-title="Title Chanel", Win Sports plus (2)
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=winsports2&token=tecnotokenplustv230516F
+#EXTINF:0 
+ tvg-logo="## Logo card" group-title="Title Chanel",Win Sports
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=winsports&token=tecnotokenplustv230516F
+#EXTINF:0,Sky Sports LaLiga
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=sky_sports_laliga&token=tecnotokenplustv230516F
+#EXTINF:0,Fox Deportes
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxdeportes&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN Deportes
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espndeportes&token=tecnotokenplustv230516F
 
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 2 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 2
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08c&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 3 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a061&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 4 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a07f&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 5 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a082&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 6 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a062&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN 7 HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a01j&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",ESPN HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Deportes",Discovery Turbo
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",AMC HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a069&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",AXN HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",Cinecanal HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",Cinemax
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a01q&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",DHE
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a066&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",De Pelicula
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a080&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",Europa Europa
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08d&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",HBO 2
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00v&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",HBO Family HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a02s&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",HBO HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a049&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",HBO POP HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a01n&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Cine",HBO Xtreme HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00x&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",A&E HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Adult Swim
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a06r&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Animal Planet HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a07x&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Discovery Channel  HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Discovery Science
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00h&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Discovery Theater HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a04e&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Discovery World HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05g&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",E! Entertainment TV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a019&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",El Gourmet HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a0as&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",FX HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a016&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Food Network
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00j&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",HGTV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",HTV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a0ax&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",History Channel HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Entretenimiento",Home & Health HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Baby TV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08a&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Cartoon Network HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Cartoonito
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Discovery Kids HD
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00s&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Disney Channel
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a05y&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Infantil",Disney Jr.
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",13 C
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a07p&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Canal Capital
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a075&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Caracol
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08m&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Canal Institucional
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a04t&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Canal RCN
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a08n&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",TRO
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a072&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Canal Uno
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a04u&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",Canal del Congreso
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a07j&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Variedades",City TV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a074&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Noticias",CNN Español
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a00t&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Noticias",DW Espaæol
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a01h&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:11 tvg-logo="" group-title="Religión",BETHEL TV
-#EXTVLCOPT:network-caching=1500
-http://tecnotv.club/p2e2/phpcode/lista4.php?c=a07q&token=tecnotokenplustv230516F&f=.m3u8
-
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=tudn&token=tecnotokenplustv230516F
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxsports2_usa&token=tecnotokenplustv230516F
+#EXTINF:0,BeIN Sports Español
+#EXTVLCOPT:network-caching=1000
+https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=beinsportes&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 1 BO HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23629&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 4 BO HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23620&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 3 BO HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23625&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 2 BO HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23628&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 2 LATIONAMERICA HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23511&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 3 HD ARGENTINA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23711&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23503&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DIRECTV SPORTS2 HD COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23538&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,DIRECTV SPORTS+ HD COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23539&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,FOX SPORTS 2 HD ARGENTINA
+#EXTVLCOPT:network-caching=1000
+http://tecnotv.club/jbvk/phpcode/deportes.php?c=104.250.128.34/livehttpplay?channel_id=23508&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,FOXSPORTS 3 HD ARGENTINA
