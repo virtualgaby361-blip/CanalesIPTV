@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:24,espn1_co
+#EXTINF:24 tvg-logo="https://m.media-amazon.com/images/I/21h-OE4-X7L.png" ,espn1_co
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn&token=tecnotokenplustv230516F
 #EXTINF:24,espn 2
