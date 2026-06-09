@@ -1,13 +1,15 @@
-﻿#EXTM3U x-tvg-type="canales" x-tvg-active="true" x-tvg-description="Lista corta de canales de TV en vivo"
-#EXTINF:3 tvg-name="Multimedios Monterrey HD" tvg-logo="" is-live="true",Multimedios Monterrey HD
-#EXTVLCOPT:network-caching=2000
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:3 tvg-name="Teleritmo" tvg-logo="" is-live="true",Teleritmo
-#EXTVLCOPT:network-caching=2000
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:3 tvg-name="El Pinguino HD" tvg-logo="" is-live="true",El Pinguino HD
-#EXTVLCOPT:network-caching=2000
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:3 tvg-name="Retro Music TV" tvg-logo="" is-live="true",Retro Music TV
+﻿#EXTM3U x-tvg-type="Canales TV" x-tvg-active="true" x-tvg-description="Canales TV"
+
+# ====== Otros ======
+#EXTINF:3 tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Music TV
 #EXTVLCOPT:network-caching=2000
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:3 tvg-name="Multimedios Monterrey HD" tvg-logo="#" tvg-live="true" group-title="Otros",Multimedios Monterrey HD
+#EXTVLCOPT:network-caching=2000
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:3 tvg-name="Teleritmo" tvg-logo="#" tvg-live="true" group-title="Otros",Teleritmo
+#EXTVLCOPT:network-caching=2000
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:3 tvg-name="El Pinguino HD" tvg-logo="#" tvg-live="true" group-title="Otros",El Pinguino HD
+#EXTVLCOPT:network-caching=2000
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8

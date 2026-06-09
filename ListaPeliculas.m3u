@@ -1,211 +1,219 @@
-﻿#EXTM3U x-tvg-type="peliculas" x-tvg-active="true" x-tvg-description="Lista de canales de peliculas, series y entretenimiento"
-#EXTINF:3 tvg-name="UNIVERSAL PREMIER" tvg-logo="" is-live="false",UNIVERSAL PREMIER
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=31&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="UNIVERSAL CHANNEL" tvg-logo="" is-live="false",UNIVERSAL CHANNEL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=38&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="HBO PLUS" tvg-logo="" is-live="false",HBO PLUS
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=21&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="HBO FAMILY" tvg-logo="" is-live="false",HBO FAMILY
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=22&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="HBO SIGNATURE" tvg-logo="" is-live="false",HBO SIGNATURE
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=20&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="HBO XTREME" tvg-logo="" is-live="false",HBO XTREME
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=16&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="AXN" tvg-logo="" is-live="false",AXN
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=55&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="SPACE" tvg-logo="" is-live="false",SPACE
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=10&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TNT" tvg-logo="" is-live="false",TNT
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TNT SERIES" tvg-logo="" is-live="false",TNT SERIES
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=5&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="AMC" tvg-logo="" is-live="false",AMC
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=57&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="CINECANAL" tvg-logo="" is-live="false",CINECANAL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=50&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="CINEMAX" tvg-logo="" is-live="false",CINEMAX
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=49&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISCOVERY CHANNEL" tvg-logo="" is-live="false",DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=47&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISCOVERY TURBO" tvg-logo="" is-live="false",DISCOVERY TURBO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=80&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="HISTORY CHANNEL" tvg-logo="" is-live="false",HISTORY CHANNEL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=19&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="NATGEO" tvg-logo="" is-live="false",NATGEO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=15&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISCOVERY ID" tvg-logo="" is-live="false",DISCOVERY ID
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=18&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISCOVERY H&H" tvg-logo="" is-live="false",DISCOVERY H&H
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=46&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="GOLDEN PLUS" tvg-logo="" is-live="false",GOLDEN PLUS
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=26&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="GOLDEN PREMIER" tvg-logo="" is-live="false",GOLDEN PREMIER
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=25&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="FX" tvg-logo="" is-live="false",FX
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=27&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="SONY" tvg-logo="" is-live="false",SONY
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=11&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ANIMAL PLANET" tvg-logo="" is-live="false",ANIMAL PLANET
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=56&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="A&E" tvg-logo="" is-live="false",A&E
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=58&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="WARNER" tvg-logo="" is-live="false",WARNER
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=2&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TELEMUNDO" tvg-logo="" is-live="false",TELEMUNDO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=7&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="LIFE TIME" tvg-logo="" is-live="false",LIFE TIME
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=33&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="STAR CHANNEL" tvg-logo="" is-live="false",STAR CHANNEL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=37&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="UNIVERSO" tvg-logo="" is-live="false",UNIVERSO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=68&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TLNOVELAS" tvg-logo="" is-live="false",TLNOVELAS
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=69&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="STUDIO UNIVERSAL" tvg-logo="" is-live="false",STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=70&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="RCN" tvg-logo="" is-live="false",RCN
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=71&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TCM" tvg-logo="" is-live="false",TCM
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=73&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="AZ MUNDO" tvg-logo="" is-live="false",AZ MUNDO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=87&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISNEY CHANNEL" tvg-logo="" is-live="false",DISNEY CHANNEL
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=44&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISCOVERY KIDS" tvg-logo="" is-live="false",DISCOVERY KIDS
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=45&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="CARTOON NETWORK" tvg-logo="" is-live="false",CARTOON NETWORK
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=51&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="NICK  JR" tvg-logo="" is-live="false",NICK  JR
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=13&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DISNEY JR" tvg-logo="" is-live="false",DISNEY JR
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=43&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="AZTECA UNO" tvg-logo="" is-live="false",AZTECA UNO
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="AZTECA 7" tvg-logo="" is-live="false",AZTECA 7
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=54&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="CANAL 5" tvg-logo="" is-live="false",CANAL 5
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=52&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="DE PELICULA" tvg-logo="" is-live="false",DE PELICULA
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=48&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="LAS ESTRELLAS" tvg-logo="" is-live="false",LAS ESTRELLAS
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=17&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ESPN 1 MX" tvg-logo="" is-live="false",ESPN 1 MX
+﻿#EXTM3U x-tvg-type="Peliculas y Series" x-tvg-active="true" x-tvg-description="Peliculas y Series"
+
+# ====== Deportes ======
+#EXTINF:3 tvg-name="ESPN 1 MX" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",ESPN 1 MX
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=41&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ESPN 2 MX" tvg-logo="" is-live="false",ESPN 2 MX
+#EXTINF:3 tvg-name="ESPN 2 MX" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",ESPN 2 MX
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=40&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ESPN 3 MX" tvg-logo="" is-live="false",ESPN 3 MX
+#EXTINF:3 tvg-name="ESPN 3 MX" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",ESPN 3 MX
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=39&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="FOX SPORTS 1 MX" tvg-logo="" is-live="false",FOX SPORTS 1 MX
+#EXTINF:3 tvg-name="FOX SPORTS 1 MX" tvg-logo="https://i.imgur.com/jFCKbcZ.png" tvg-live="false" group-title="Deportes",FOX SPORTS 1 MX
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=30&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="FOX SPORTS 3 MX" tvg-logo="" is-live="false",FOX SPORTS 3 MX
+#EXTINF:3 tvg-name="FOX SPORTS 3 MX" tvg-logo="https://i.imgur.com/jFCKbcZ.png" tvg-live="false" group-title="Deportes",FOX SPORTS 3 MX
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=28&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="TDN" tvg-logo="" is-live="false",TDN
+#EXTINF:3 tvg-name="TDN" tvg-logo="https://i.imgur.com/TpZwSQv.png" tvg-live="false" group-title="Deportes",TDN
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=8&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="UDN" tvg-logo="" is-live="false",UDN
+#EXTINF:3 tvg-name="UDN" tvg-logo="https://i.imgur.com/TpZwSQv.png" tvg-live="false" group-title="Deportes",UDN
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=4&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="WWE NETWORK" tvg-logo="" is-live="false",WWE NETWORK
+#EXTINF:3 tvg-name="WWE NETWORK" tvg-logo="https://i.imgur.com/JnbMcU9.png" tvg-live="false" group-title="Deportes",WWE NETWORK
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=65&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="WIN SPORTS +" tvg-logo="" is-live="false",WIN SPORTS +
+#EXTINF:3 tvg-name="WIN SPORTS +" tvg-logo="https://i.imgur.com/X3gOE3S.png" tvg-live="false" group-title="Deportes",WIN SPORTS +
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=66&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="WIN SPORTS" tvg-logo="" is-live="false",WIN SPORTS
+#EXTINF:3 tvg-name="WIN SPORTS" tvg-logo="https://i.imgur.com/X3gOE3S.png" tvg-live="false" group-title="Deportes",WIN SPORTS
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=67&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="GOLTV" tvg-logo="" is-live="false",GOLTV
+#EXTINF:3 tvg-name="GOLTV" tvg-logo="https://i.imgur.com/iqr4DP1.png" tvg-live="false" group-title="Deportes",GOLTV
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=76&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="FORMULA 1" tvg-logo="" is-live="false",FORMULA 1
+#EXTINF:3 tvg-name="FORMULA 1" tvg-logo="https://i.imgur.com/GMuQ2FP.png" tvg-live="false" group-title="Deportes",FORMULA 1
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=81&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ESPN SUR" tvg-logo="" is-live="false",ESPN SUR
+#EXTINF:3 tvg-name="ESPN SUR" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",ESPN SUR
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=77&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="ESPN 2 SUR" tvg-logo="" is-live="false",ESPN 2 SUR
+#EXTINF:3 tvg-name="ESPN 2 SUR" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",ESPN 2 SUR
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=79&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="CLARO SPORTS" tvg-logo="" is-live="false",CLARO SPORTS
+#EXTINF:3 tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/jk5BDyT.png" tvg-live="false" group-title="Deportes",CLARO SPORTS
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=82&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Az Cinema" tvg-logo="" is-live="false",Az Cinema
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=89&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Az Corazon" tvg-logo="" is-live="false",Az Corazon
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=88&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Boomerang" tvg-logo="" is-live="false",Boomerang
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Distrito Comedia" tvg-logo="" is-live="false",Distrito Comedia
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=42&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Espn plus" tvg-logo="" is-live="false",Espn plus
+#EXTINF:3 tvg-name="Espn plus" tvg-logo="https://i.imgur.com/b0vrIjJ.png" tvg-live="false" group-title="Deportes",Espn plus
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=64&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Universal Comedy" tvg-logo="" is-live="false",Universal Comedy
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=34&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Universal Reality" tvg-logo="" is-live="false",Universal Reality
-#EXTVLCOPT:network-caching=2000
-http://tecnotv.club/p2e2/phpcode/lista3.php?c=34&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="fox sports 2 mx" tvg-logo="" is-live="false",fox sports 2 mx
+#EXTINF:3 tvg-name="fox sports 2 mx" tvg-logo="https://i.imgur.com/jFCKbcZ.png" tvg-live="false" group-title="Deportes",fox sports 2 mx
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=29&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Hbo 2" tvg-logo="" is-live="false",Hbo 2
+
+# ====== Novelas ======
+#EXTINF:3 tvg-name="TELEMUNDO" tvg-logo="https://i.imgur.com/wrA0woH.png" tvg-live="false" group-title="Novelas",TELEMUNDO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=7&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="LIFE TIME" tvg-logo="https://i.imgur.com/v8Fa2nP.png" tvg-live="false" group-title="Novelas",LIFE TIME
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=33&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="UNIVERSO" tvg-logo="https://i.imgur.com/6F0K2YR.png" tvg-live="false" group-title="Novelas",UNIVERSO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=68&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/PQbM8tD.png" tvg-live="false" group-title="Novelas",TLNOVELAS
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=69&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="RCN" tvg-logo="https://i.imgur.com/0C58xVP.png" tvg-live="false" group-title="Novelas",RCN
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=71&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="AZ MUNDO" tvg-logo="https://i.imgur.com/1YEQPC8.png" tvg-live="false" group-title="Novelas",AZ MUNDO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=87&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="AZTECA UNO" tvg-logo="https://i.imgur.com/1YEQPC8.png" tvg-live="false" group-title="Novelas",AZTECA UNO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="AZTECA 7" tvg-logo="https://i.imgur.com/1YEQPC8.png" tvg-live="false" group-title="Novelas",AZTECA 7
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=54&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="CANAL 5" tvg-logo="https://i.imgur.com/IxDlM7z.png" tvg-live="false" group-title="Novelas",CANAL 5
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=52&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="LAS ESTRELLAS" tvg-logo="https://i.imgur.com/lWEGFnI.png" tvg-live="false" group-title="Novelas",LAS ESTRELLAS
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=17&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Az Corazon" tvg-logo="https://i.imgur.com/1YEQPC8.png" tvg-live="false" group-title="Novelas",Az Corazon
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=88&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Distrito Comedia" tvg-logo="https://i.imgur.com/OMq3AxY.png" tvg-live="false" group-title="Novelas",Distrito Comedia
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=42&token=tecnotokenplustv230516F&f=.m3u8
+
+# ====== Peliculas ======
+#EXTINF:3 tvg-name="UNIVERSAL PREMIER" tvg-logo="https://i.imgur.com/fqBqNeg.png" tvg-live="false" group-title="Peliculas",UNIVERSAL PREMIER
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=31&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/fqBqNeg.png" tvg-live="false" group-title="Peliculas",UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=38&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HBO PLUS" tvg-logo="https://i.imgur.com/fUSlXVo.png" tvg-live="false" group-title="Peliculas",HBO PLUS
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=21&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/fUSlXVo.png" tvg-live="false" group-title="Peliculas",HBO FAMILY
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=22&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/fUSlXVo.png" tvg-live="false" group-title="Peliculas",HBO SIGNATURE
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=20&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/fUSlXVo.png" tvg-live="false" group-title="Peliculas",HBO XTREME
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=16&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="AXN" tvg-logo="https://i.imgur.com/NrL6jIH.png" tvg-live="false" group-title="Peliculas",AXN
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=55&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="SPACE" tvg-logo="https://i.imgur.com/kOiLLr5.png" tvg-live="false" group-title="Peliculas",SPACE
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=10&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TNT" tvg-logo="https://i.imgur.com/MPiRThO.png" tvg-live="false" group-title="Peliculas",TNT
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/MPiRThO.png" tvg-live="false" group-title="Peliculas",TNT SERIES
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="AMC" tvg-logo="https://i.imgur.com/JZ5m8Pu.png" tvg-live="false" group-title="Peliculas",AMC
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=57&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="CINECANAL" tvg-logo="https://i.imgur.com/LR5tS7H.png" tvg-live="false" group-title="Peliculas",CINECANAL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=50&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/1oQSTYN.png" tvg-live="false" group-title="Peliculas",CINEMAX
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=49&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/vPHaVA2.png" tvg-live="false" group-title="Peliculas",GOLDEN PLUS
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=26&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="GOLDEN PREMIER" tvg-logo="https://i.imgur.com/vPHaVA2.png" tvg-live="false" group-title="Peliculas",GOLDEN PREMIER
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=25&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="FX" tvg-logo="https://i.imgur.com/cHJKsPB.png" tvg-live="false" group-title="Peliculas",FX
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=27&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="SONY" tvg-logo="https://i.imgur.com/9AV2YeA.png" tvg-live="false" group-title="Peliculas",SONY
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=11&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="WARNER" tvg-logo="https://i.imgur.com/TXBEpdn.png" tvg-live="false" group-title="Peliculas",WARNER
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/Z7gRh6p.png" tvg-live="false" group-title="Peliculas",STAR CHANNEL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=37&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/fqBqNeg.png" tvg-live="false" group-title="Peliculas",STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=70&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TCM" tvg-logo="https://i.imgur.com/RTEP0VK.png" tvg-live="false" group-title="Peliculas",TCM
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=73&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DE PELICULA" tvg-logo="https://i.imgur.com/Wm5kx7C.png" tvg-live="false" group-title="Peliculas",DE PELICULA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=48&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Az Cinema" tvg-logo="https://i.imgur.com/1YEQPC8.png" tvg-live="false" group-title="Peliculas",Az Cinema
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=89&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Universal Comedy" tvg-logo="https://i.imgur.com/fqBqNeg.png" tvg-live="false" group-title="Peliculas",Universal Comedy
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=34&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Universal Reality" tvg-logo="https://i.imgur.com/fqBqNeg.png" tvg-live="false" group-title="Peliculas",Universal Reality
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=34&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Hbo 2" tvg-logo="https://i.imgur.com/fUSlXVo.png" tvg-live="false" group-title="Peliculas",Hbo 2
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=23&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:3 tvg-name="Nick" tvg-logo="" is-live="false",Nick
+
+# ====== Otros ======
+#EXTINF:3 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/8SSUrBi.png" tvg-live="false" group-title="Otros",DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=47&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/8SSUrBi.png" tvg-live="false" group-title="Otros",DISCOVERY TURBO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=80&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HISTORY CHANNEL" tvg-logo="https://i.imgur.com/LEaGr1I.png" tvg-live="false" group-title="Otros",HISTORY CHANNEL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=19&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="NATGEO" tvg-logo="https://i.imgur.com/JqZqGFT.png" tvg-live="false" group-title="Otros",NATGEO
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=15&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/8SSUrBi.png" tvg-live="false" group-title="Otros",DISCOVERY ID
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=18&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/AwsMXpI.png" tvg-live="false" group-title="Otros",ANIMAL PLANET
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=56&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/EVGS6pM.png" tvg-live="false" group-title="Otros",DISNEY CHANNEL
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=44&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/CZKLLY5.png" tvg-live="false" group-title="Otros",DISCOVERY KIDS
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=45&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/0aZPTC6.png" tvg-live="false" group-title="Otros",CARTOON NETWORK
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=51&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="NICK  JR" tvg-logo="https://i.imgur.com/bFyaHgB.png" tvg-live="false" group-title="Otros",NICK  JR
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=13&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISNEY JR" tvg-logo="https://i.imgur.com/oTkgqv5.png" tvg-live="false" group-title="Otros",DISNEY JR
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=43&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/VRxGMn9.png" tvg-live="false" group-title="Otros",Boomerang
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Nick" tvg-logo="https://i.imgur.com/bFyaHgB.png" tvg-live="false" group-title="Otros",Nick
 #EXTVLCOPT:network-caching=2000
 http://tecnotv.club/p2e2/phpcode/lista3.php?c=92&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DISCOVERY H&H" tvg-logo="#" tvg-live="false" group-title="Otros",DISCOVERY H&H
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=46&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="A&E" tvg-logo="#" tvg-live="false" group-title="Otros",A&E
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=58&token=tecnotokenplustv230516F&f=.m3u8

@@ -1,6 +1,6 @@
-﻿#EXTM3U x-tvg-type="Canales TV" x-tvg-active="true" x-tvg-description="Canales TV"
+﻿#EXTM3U x-tvg-type="Sin Logo" x-tvg-active="true" x-tvg-description="Canales sin imagen de logo - pendientes de agregar"
 
-# ====== Deportes ======
+# ====== Desde: CanalesTop_1.m3u ======
 #EXTINF:3 tvg-name="FutGO" tvg-logo="#" tvg-live="true" group-title="Deportes",FutGO
 #EXTVLCOPT:network-caching=2000
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
@@ -13,20 +13,6 @@ https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s
 #EXTINF:3 tvg-name="Valparaiso Sporting" tvg-logo="#" tvg-live="true" group-title="Deportes",Valparaiso Sporting
 #EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
-
-# ====== Noticieros ======
-#EXTINF:3 tvg-name="Aljazeera Arabic" tvg-logo="https://i.imgur.com/CXNBKLE.png" tvg-live="true" group-title="Noticieros",Aljazeera Arabic
-#EXTVLCOPT:network-caching=2000
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xUhIZ.png" tvg-live="true" group-title="Noticieros",DW English
-#EXTVLCOPT:network-caching=2000
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="RT News" tvg-logo="https://i.imgur.com/7p3qY9g.png" tvg-live="true" group-title="Noticieros",RT News
-#EXTVLCOPT:network-caching=2000
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="TVE 24H" tvg-logo="https://i.imgur.com/ORkUxfX.png" tvg-live="true" group-title="Noticieros",TVE 24H
-#EXTVLCOPT:network-caching=2000
-https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:3 tvg-name="N24TV | AR" tvg-logo="#" tvg-live="true" group-title="Noticieros",N24TV | AR
 #EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8?PlaylistM3UCL
@@ -66,49 +52,6 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:3 tvg-name="ZN Noticias" tvg-logo="#" tvg-live="true" group-title="Noticieros",ZN Noticias
 #EXTVLCOPT:network-caching=2000
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
-
-# ====== Novelas ======
-#EXTINF:3 tvg-name="Canal 5 Pico Truncado | AR" tvg-logo="https://i.imgur.com/IxDlM7z.png" tvg-live="true" group-title="Novelas",Canal 5 Pico Truncado | AR
-#EXTVLCOPT:network-caching=2000
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Canal 5 Santa Fe | AR" tvg-logo="https://i.imgur.com/IxDlM7z.png" tvg-live="true" group-title="Novelas",Canal 5 Santa Fe | AR
-#EXTVLCOPT:network-caching=2000
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Canal 5 TV Tandil | AR" tvg-logo="https://i.imgur.com/IxDlM7z.png" tvg-live="true" group-title="Novelas",Canal 5 TV Tandil | AR
-#EXTVLCOPT:network-caching=2000
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Canal 50 Morteros | AR" tvg-logo="https://i.imgur.com/IxDlM7z.png" tvg-live="true" group-title="Novelas",Canal 50 Morteros | AR
-#EXTVLCOPT:network-caching=2000
-https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="FM Universo | AR" tvg-logo="https://i.imgur.com/6F0K2YR.png" tvg-live="true" group-title="Novelas",FM Universo | AR
-#EXTVLCOPT:network-caching=2000
-https://live20.bozztv.com/giatv/giatv-universotv/universotv/chunks.m3u8?PlaylistM3UCL
-
-# ====== Otros ======
-#EXTINF:3 tvg-name="Retro Plus TV | CL" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV | CL
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Music Top | AR" tvg-logo="https://i.imgur.com/rIjzNoR.png" tvg-live="true" group-title="Otros",Music Top | AR
-#EXTVLCOPT:network-caching=2000
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Retro Plus TV Señal 2 | CL" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV Señal 2 | CL
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Retro Plus TV Señal 3 | CL" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV Señal 3 | CL
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Music Top" tvg-logo="https://i.imgur.com/rIjzNoR.png" tvg-live="true" group-title="Otros",Music Top
-#EXTVLCOPT:network-caching=2000
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Retro Plus TV" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV Señal 2
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3 tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i.imgur.com/XZQFMNK.png" tvg-live="true" group-title="Otros",Retro Plus TV Señal 3
-#EXTVLCOPT:network-caching=2000
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:3 tvg-name="Crossing TV | AR" tvg-logo="#" tvg-live="true" group-title="Otros",Crossing TV | AR
 #EXTVLCOPT:network-caching=2000
 https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
@@ -559,3 +502,78 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8?PlaylistM3
 #EXTINF:3 tvg-name="PRIDEtv Latam Web" tvg-logo="#" tvg-live="true" group-title="Otros",PRIDEtv Latam Web
 #EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+# ====== Desde: ListaInfantilDeporteHD.m3u ======
+#EXTINF:3 tvg-name="TN23 HD" tvg-logo="#" tvg-live="true" group-title="Noticieros",TN23 HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a025&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TV-101" tvg-logo="#" tvg-live="true" group-title="Otros",TV-101
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="PENIEL FAMILIAR HUEHUE" tvg-logo="#" tvg-live="true" group-title="Otros",PENIEL FAMILIAR HUEHUE
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a021&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="TeleMicro - TeleMicro - RD" tvg-logo="#" tvg-live="true" group-title="Otros",TeleMicro - TeleMicro - RD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a027&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Vea Canal" tvg-logo="#" tvg-live="true" group-title="Otros",Vea Canal
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal 11 - GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal 11 - GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal 13-GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal 13-GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0jj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal 3 - GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal 3 - GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal 7 - GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal 7 - GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal Antigua - GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal Antigua - GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0h2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Canal Guatevision - GUA" tvg-logo="#" tvg-live="true" group-title="Otros",Canal Guatevision - GUA
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0fw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="La voz de Maria" tvg-logo="#" tvg-live="true" group-title="Otros",La voz de Maria
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0id&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Sembrador" tvg-logo="#" tvg-live="true" group-title="Otros",Sembrador
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0k0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="DHE HD" tvg-logo="#" tvg-live="true" group-title="Otros",DHE HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="E! Entertairment HD" tvg-logo="#" tvg-live="true" group-title="Otros",E! Entertairment HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Film & arts HD" tvg-logo="#" tvg-live="true" group-title="Otros",Film & arts HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="HOLA! TV HD" tvg-logo="#" tvg-live="true" group-title="Otros",HOLA! TV HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hx&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="Home & Health HD" tvg-logo="#" tvg-live="true" group-title="Otros",Home & Health HD
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/android2.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
+
+# ====== Desde: ListaPeliculas.m3u ======
+#EXTINF:3 tvg-name="DISCOVERY H&H" tvg-logo="#" tvg-live="false" group-title="Otros",DISCOVERY H&H
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=46&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:3 tvg-name="A&E" tvg-logo="#" tvg-live="false" group-title="Otros",A&E
+#EXTVLCOPT:network-caching=2000
+http://tecnotv.club/p2e2/phpcode/lista3.php?c=58&token=tecnotokenplustv230516F&f=.m3u8
+
+# ====== Desde: listaCorta.m3u ======
+#EXTINF:3 tvg-name="Multimedios Monterrey HD" tvg-logo="#" tvg-live="true" group-title="Otros",Multimedios Monterrey HD
+#EXTVLCOPT:network-caching=2000
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:3 tvg-name="Teleritmo" tvg-logo="#" tvg-live="true" group-title="Otros",Teleritmo
+#EXTVLCOPT:network-caching=2000
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:3 tvg-name="El Pinguino HD" tvg-logo="#" tvg-live="true" group-title="Otros",El Pinguino HD
+#EXTVLCOPT:network-caching=2000
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
