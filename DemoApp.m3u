@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLIST: Demo App - Lista Maestra
+
+#EXTINF:-1 group-title="Canales Top", --- CANALES TOP ---
+https://raw.githubusercontent.com/virtualgaby361-blip/CanalesIPTV/main/CanalesTop_1.m3u
+
+#EXTINF:-1 group-title="Infantil y Deportes HD", --- INFANTIL DEPORTE HD ---
+https://raw.githubusercontent.com/virtualgaby361-blip/CanalesIPTV/main/ListaInfantilDeporteHD.m3u
+
+#EXTINF:-1 group-title="Peliculas", --- PELICULAS ---
+https://raw.githubusercontent.com/virtualgaby361-blip/CanalesIPTV/main/ListaPeliculas.m3u
+
+#EXTINF:-1 group-title="Lista Corta", --- LISTA CORTA ---
+https://raw.githubusercontent.com/virtualgaby361-blip/CanalesIPTV/main/listaCorta.m3u
