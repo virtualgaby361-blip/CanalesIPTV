@@ -1,369 +1,553 @@
-﻿#EXTM3U
-#EXTINF:3,Crossing TV | AR
+﻿#EXTM3U x-tvg-type="canales" x-tvg-active="true" x-tvg-description="Lista de canales de TV en vivo - Argentina y LATAM"
+#EXTINF:3 tvg-name="Crossing TV | AR" tvg-logo="" is-live="true",Crossing TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Milennio TV | AR
+#EXTINF:3 tvg-name="Milennio TV | AR" tvg-logo="" is-live="true",Milennio TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,N24TV | AR
+#EXTINF:3 tvg-name="N24TV | AR" tvg-logo="" is-live="true",N24TV | AR
+#EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8?PlaylistM3UCL
-#EXTINF:3,Neo TV | AR
+#EXTINF:3 tvg-name="Neo TV | AR" tvg-logo="" is-live="true",Neo TV | AR
+#EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:3,San Luis Mas | AR
+#EXTINF:3 tvg-name="San Luis Mas | AR" tvg-logo="" is-live="true",San Luis Mas | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
-#EXTINF:3,Señal Urbana | AR
+#EXTINF:3 tvg-name="Señal Urbana | AR" tvg-logo="" is-live="true",Señal Urbana | AR
+#EXTVLCOPT:network-caching=2000
 https://stmv1.voxtvhd.com.br/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,UCL Televisión LATAM | UY
+#EXTINF:3 tvg-name="UCL Televisión LATAM | UY" tvg-logo="" is-live="true",UCL Televisión LATAM | UY
+#EXTVLCOPT:network-caching=2000
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:3,Mundo de la Musica TV | CL
+#EXTINF:3 tvg-name="Mundo de la Musica TV | CL" tvg-logo="" is-live="true",Mundo de la Musica TV | CL
+#EXTVLCOPT:network-caching=2000
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV | CL
+#EXTINF:3 tvg-name="Retro Plus TV | CL" tvg-logo="" is-live="true",Retro Plus TV | CL
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,ZyoonTV | UY
+#EXTINF:3 tvg-name="ZyoonTV | UY" tvg-logo="" is-live="true",ZyoonTV | UY
+#EXTVLCOPT:network-caching=2000
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,5TV | AR
+#EXTINF:3 tvg-name="5TV | AR" tvg-logo="" is-live="true",5TV | AR
+#EXTVLCOPT:network-caching=2000
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Aire de Santa Fe | AR
+#EXTINF:3 tvg-name="Aire de Santa Fe | AR" tvg-logo="" is-live="true",Aire de Santa Fe | AR
+#EXTVLCOPT:network-caching=2000
 https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Argentinisima Satelital | AR
+#EXTINF:3 tvg-name="Argentinisima Satelital | AR" tvg-logo="" is-live="true",Argentinisima Satelital | AR
+#EXTVLCOPT:network-caching=2000
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:3,AVC HD | AR
+#EXTINF:3 tvg-name="AVC HD | AR" tvg-logo="" is-live="true",AVC HD | AR
+#EXTVLCOPT:network-caching=2000
 https://giatv.bozztv.com/giatv/giatv-digimediosstreamavc/digimediosstreamavc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Bravo TV | AR
+#EXTINF:3 tvg-name="Bravo TV | AR" tvg-logo="" is-live="true",Bravo TV | AR
+#EXTVLCOPT:network-caching=2000
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Cadena 103 | AR
+#EXTINF:3 tvg-name="Cadena 103 | AR" tvg-logo="" is-live="true",Cadena 103 | AR
+#EXTVLCOPT:network-caching=2000
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 10 | AR
+#EXTINF:3 tvg-name="Canal 10 | AR" tvg-logo="" is-live="true",Canal 10 | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 13 La Rioja | AR
+#EXTINF:3 tvg-name="Canal 13 La Rioja | AR" tvg-logo="" is-live="true",Canal 13 La Rioja | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 2 Misiones | AR
+#EXTINF:3 tvg-name="Canal 2 Misiones | AR" tvg-logo="" is-live="true",Canal 2 Misiones | AR
+#EXTVLCOPT:network-caching=2000
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 21 Misiones | AR
+#EXTINF:3 tvg-name="Canal 21 Misiones | AR" tvg-logo="" is-live="true",Canal 21 Misiones | AR
+#EXTVLCOPT:network-caching=2000
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 22 Buenos Aires | AR
+#EXTINF:3 tvg-name="Canal 22 Buenos Aires | AR" tvg-logo="" is-live="true",Canal 22 Buenos Aires | AR
+#EXTVLCOPT:network-caching=2000
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 3 Formosa | AR
+#EXTINF:3 tvg-name="Canal 3 Formosa | AR" tvg-logo="" is-live="true",Canal 3 Formosa | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 3 La Pampa | AR
+#EXTINF:3 tvg-name="Canal 3 La Pampa | AR" tvg-logo="" is-live="true",Canal 3 La Pampa | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 3 Las Heras | AR
+#EXTINF:3 tvg-name="Canal 3 Las Heras | AR" tvg-logo="" is-live="true",Canal 3 Las Heras | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 3 Pinamar | AR
+#EXTINF:3 tvg-name="Canal 3 Pinamar | AR" tvg-logo="" is-live="true",Canal 3 Pinamar | AR
+#EXTVLCOPT:network-caching=2000
 https://intelincloud01.com.ar/hls/cn3/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 4 Esquel | AR
+#EXTINF:3 tvg-name="Canal 4 Esquel | AR" tvg-logo="" is-live="true",Canal 4 Esquel | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 4 Jujuy | AR
+#EXTINF:3 tvg-name="Canal 4 Jujuy | AR" tvg-logo="" is-live="true",Canal 4 Jujuy | AR
+#EXTVLCOPT:network-caching=2000
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 4 Posadas | AR
+#EXTINF:3 tvg-name="Canal 4 Posadas | AR" tvg-logo="" is-live="true",Canal 4 Posadas | AR
+#EXTVLCOPT:network-caching=2000
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 4 San Juan | AR
+#EXTINF:3 tvg-name="Canal 4 San Juan | AR" tvg-logo="" is-live="true",Canal 4 San Juan | AR
+#EXTVLCOPT:network-caching=2000
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 40 Caucete | AR
+#EXTINF:3 tvg-name="Canal 40 Caucete | AR" tvg-logo="" is-live="true",Canal 40 Caucete | AR
+#EXTVLCOPT:network-caching=2000
 https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 5 Pico Truncado | AR
+#EXTINF:3 tvg-name="Canal 5 Pico Truncado | AR" tvg-logo="" is-live="true",Canal 5 Pico Truncado | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 5 Santa Fe | AR
+#EXTINF:3 tvg-name="Canal 5 Santa Fe | AR" tvg-logo="" is-live="true",Canal 5 Santa Fe | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 5 TV Tandil | AR
+#EXTINF:3 tvg-name="Canal 5 TV Tandil | AR" tvg-logo="" is-live="true",Canal 5 TV Tandil | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 50 Morteros | AR
+#EXTINF:3 tvg-name="Canal 50 Morteros | AR" tvg-logo="" is-live="true",Canal 50 Morteros | AR
+#EXTVLCOPT:network-caching=2000
 https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 6 Posadas | AR
+#EXTINF:3 tvg-name="Canal 6 Posadas | AR" tvg-logo="" is-live="true",Canal 6 Posadas | AR
+#EXTVLCOPT:network-caching=2000
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 7 Jujuy | AR
+#EXTINF:3 tvg-name="Canal 7 Jujuy | AR" tvg-logo="" is-live="true",Canal 7 Jujuy | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 7 Neuquen | AR
+#EXTINF:3 tvg-name="Canal 7 Neuquen | AR" tvg-logo="" is-live="true",Canal 7 Neuquen | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 7 Santiago del Estero | AR
+#EXTINF:3 tvg-name="Canal 7 Santiago del Estero | AR" tvg-logo="" is-live="true",Canal 7 Santiago del Estero | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 79 Mar del Plata | AR
+#EXTINF:3 tvg-name="Canal 79 Mar del Plata | AR" tvg-logo="" is-live="true",Canal 79 Mar del Plata | AR
+#EXTVLCOPT:network-caching=2000
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 9 Litoral | AR
+#EXTINF:3 tvg-name="Canal 9 Litoral | AR" tvg-logo="" is-live="true",Canal 9 Litoral | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal 907 FM Comunicar | AR
+#EXTINF:3 tvg-name="Canal 907 FM Comunicar | AR" tvg-logo="" is-live="true",Canal 907 FM Comunicar | AR
+#EXTVLCOPT:network-caching=2000
 https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal E | AR
+#EXTINF:3 tvg-name="Canal E | AR" tvg-logo="" is-live="true",Canal E | AR
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Caras TV | AR
+#EXTINF:3 tvg-name="Caras TV | AR" tvg-logo="" is-live="true",Caras TV | AR
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Catamarca TV | AR
+#EXTINF:3 tvg-name="Catamarca TV | AR" tvg-logo="" is-live="true",Catamarca TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Celta TV | AR
+#EXTINF:3 tvg-name="Celta TV | AR" tvg-logo="" is-live="true",Celta TV | AR
+#EXTVLCOPT:network-caching=2000
 https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
-#EXTINF:3,Chaco TV | AR
+#EXTINF:3 tvg-name="Chaco TV | AR" tvg-logo="" is-live="true",Chaco TV | AR
+#EXTVLCOPT:network-caching=2000
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Ciudad Magica TV | AR
+#EXTINF:3 tvg-name="Ciudad Magica TV | AR" tvg-logo="" is-live="true",Ciudad Magica TV | AR
+#EXTVLCOPT:network-caching=2000
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8?PlaylistM3UCL
-#EXTINF:3,Ciudad TV Resistencia | AR
+#EXTINF:3 tvg-name="Ciudad TV Resistencia | AR" tvg-logo="" is-live="true",Ciudad TV Resistencia | AR
+#EXTVLCOPT:network-caching=2000
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Corrientes TV | AR
+#EXTINF:3 tvg-name="Corrientes TV | AR" tvg-logo="" is-live="true",Corrientes TV | AR
+#EXTVLCOPT:network-caching=2000
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8?PlaylistM3UCL
-#EXTINF:3,Cosmos TV | AR
+#EXTINF:3 tvg-name="Cosmos TV | AR" tvg-logo="" is-live="true",Cosmos TV | AR
+#EXTVLCOPT:network-caching=2000
 https://canaletaplus.com:3922/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:3,Eco TV | AR
+#EXTINF:3 tvg-name="Eco TV | AR" tvg-logo="" is-live="true",Eco TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,El Palomar TV Tucuman | AR
+#EXTINF:3 tvg-name="El Palomar TV Tucuman | AR" tvg-logo="" is-live="true",El Palomar TV Tucuman | AR
+#EXTVLCOPT:network-caching=2000
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,FM Metropolitana 100.5 MHZ | AR
+#EXTINF:3 tvg-name="FM Metropolitana 100.5 MHZ | AR" tvg-logo="" is-live="true",FM Metropolitana 100.5 MHZ | AR
+#EXTVLCOPT:network-caching=2000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
-#EXTINF:3,FM Universo | AR
+#EXTINF:3 tvg-name="FM Universo | AR" tvg-logo="" is-live="true",FM Universo | AR
+#EXTVLCOPT:network-caching=2000
 https://live20.bozztv.com/giatv/giatv-universotv/universotv/chunks.m3u8?PlaylistM3UCL
-#EXTINF:3,Ingenio FM | AR
+#EXTINF:3 tvg-name="Ingenio FM | AR" tvg-logo="" is-live="true",Ingenio FM | AR
+#EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/ingeniofm/ingeniofm.m3u8?PlaylistM3UCL
-#EXTINF:3,La 100 | AR
+#EXTINF:3 tvg-name="La 100 | AR" tvg-logo="" is-live="true",La 100 | AR
+#EXTVLCOPT:network-caching=2000
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
-#EXTINF:3,Lapacho TV Canal 11 | AR
+#EXTINF:3 tvg-name="Lapacho TV Canal 11 | AR" tvg-logo="" is-live="true",Lapacho TV Canal 11 | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Litus TV | AR
+#EXTINF:3 tvg-name="Litus TV | AR" tvg-logo="" is-live="true",Litus TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Mas FM | AR
+#EXTINF:3 tvg-name="Mas FM | AR" tvg-logo="" is-live="true",Mas FM | AR
+#EXTVLCOPT:network-caching=2000
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
-#EXTINF:3,Medios Provincia | AR
+#EXTINF:3 tvg-name="Medios Provincia | AR" tvg-logo="" is-live="true",Medios Provincia | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Megaclassic TV | AR
+#EXTINF:3 tvg-name="Megaclassic TV | AR" tvg-logo="" is-live="true",Megaclassic TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Misiones Cuatro | AR
+#EXTINF:3 tvg-name="Misiones Cuatro | AR" tvg-logo="" is-live="true",Misiones Cuatro | AR
+#EXTVLCOPT:network-caching=2000
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Neo Net Music | AR
+#EXTINF:3 tvg-name="Neo Net Music | AR" tvg-logo="" is-live="true",Neo Net Music | AR
+#EXTVLCOPT:network-caching=2000
 https://panel.host-live.com:19360/8096/8096.m3u8?PlaylistM3UCL
-#EXTINF:3,Net TV | AR
+#EXTINF:3 tvg-name="Net TV | AR" tvg-logo="" is-live="true",Net TV | AR
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Power | AR
+#EXTINF:3 tvg-name="Power | AR" tvg-logo="" is-live="true",Power | AR
+#EXTVLCOPT:network-caching=2000
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:3,Power Max TV | AR
+#EXTINF:3 tvg-name="Power Max TV | AR" tvg-logo="" is-live="true",Power Max TV | AR
+#EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
-#EXTINF:3,Radio TV Neuquen | AR
+#EXTINF:3 tvg-name="Radio TV Neuquen | AR" tvg-logo="" is-live="true",Radio TV Neuquen | AR
+#EXTVLCOPT:network-caching=2000
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Radiocanal San Francisco | AR
+#EXTINF:3 tvg-name="Radiocanal San Francisco | AR" tvg-logo="" is-live="true",Radiocanal San Francisco | AR
+#EXTVLCOPT:network-caching=2000
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:3,Sicardi TV | AR
+#EXTINF:3 tvg-name="Sicardi TV | AR" tvg-logo="" is-live="true",Sicardi TV | AR
+#EXTVLCOPT:network-caching=2000
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
-#EXTINF:3,Solive TV | AR
+#EXTINF:3 tvg-name="Solive TV | AR" tvg-logo="" is-live="true",Solive TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,T5 Satelital | AR
+#EXTINF:3 tvg-name="T5 Satelital | AR" tvg-logo="" is-live="true",T5 Satelital | AR
+#EXTVLCOPT:network-caching=2000
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8?PlaylistM3UCL
-#EXTINF:3,TDC TV Santa Fe | AR
+#EXTINF:3 tvg-name="TDC TV Santa Fe | AR" tvg-logo="" is-live="true",TDC TV Santa Fe | AR
+#EXTVLCOPT:network-caching=2000
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8?PlaylistM3UCL
-#EXTINF:3,Tele Estrella | AR
+#EXTINF:3 tvg-name="Tele Estrella | AR" tvg-logo="" is-live="true",Tele Estrella | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Tele Posadas HD | AR
+#EXTINF:3 tvg-name="Tele Posadas HD | AR" tvg-logo="" is-live="true",Tele Posadas HD | AR
+#EXTVLCOPT:network-caching=2000
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Telecondor Internacional | AR
+#EXTINF:3 tvg-name="Telecondor Internacional | AR" tvg-logo="" is-live="true",Telecondor Internacional | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Telecreativa | AR
+#EXTINF:3 tvg-name="Telecreativa | AR" tvg-logo="" is-live="true",Telecreativa | AR
+#EXTVLCOPT:network-caching=2000
 https://panel.host-live.com:19360/8012/8012.m3u8?PlaylistM3UCL
-#EXTINF:3,TeleJunin | AR
+#EXTINF:3 tvg-name="TeleJunin | AR" tvg-logo="" is-live="true",TeleJunin | AR
+#EXTVLCOPT:network-caching=2000
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
-#EXTINF:3,Telemax | AR
+#EXTINF:3 tvg-name="Telemax | AR" tvg-logo="" is-live="true",Telemax | AR
+#EXTVLCOPT:network-caching=2000
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
-#EXTINF:3,Telesol San Juan | AR
+#EXTINF:3 tvg-name="Telesol San Juan | AR" tvg-logo="" is-live="true",Telesol San Juan | AR
+#EXTVLCOPT:network-caching=2000
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Televideo | AR
+#EXTINF:3 tvg-name="Televideo | AR" tvg-logo="" is-live="true",Televideo | AR
+#EXTVLCOPT:network-caching=2000
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Tierramia TV | AR
+#EXTINF:3 tvg-name="Tierramia TV | AR" tvg-logo="" is-live="true",Tierramia TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1?PlaylistM3UCL
-#EXTINF:3,TV Mana | AR
+#EXTINF:3 tvg-name="TV Mana | AR" tvg-logo="" is-live="true",TV Mana | AR
+#EXTVLCOPT:network-caching=2000
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,TV Solidaria | AR
+#EXTINF:3 tvg-name="TV Solidaria | AR" tvg-logo="" is-live="true",TV Solidaria | AR
+#EXTVLCOPT:network-caching=2000
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL
-#EXTINF:3,Uni Teve | AR
+#EXTINF:3 tvg-name="Uni Teve | AR" tvg-logo="" is-live="true",Uni Teve | AR
+#EXTVLCOPT:network-caching=2000
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-#EXTINF:3,Urbana TeVe | AR
+#EXTINF:3 tvg-name="Urbana TeVe | AR" tvg-logo="" is-live="true",Urbana TeVe | AR
+#EXTVLCOPT:network-caching=2000
 https://nd106.republicaservers.com:4433/c7812.mp4?PlaylistM3UCL
-#EXTINF:3,Ver TV | AR
+#EXTINF:3 tvg-name="Ver TV | AR" tvg-logo="" is-live="true",Ver TV | AR
+#EXTVLCOPT:network-caching=2000
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Suyai TV
+#EXTINF:3 tvg-name="Suyai TV" tvg-logo="" is-live="true",Suyai TV
+#EXTVLCOPT:network-caching=2000
 https://cl-2.backend.energeek.cl/SuyaiTV-Neo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-#EXTINF:3,Garage TV | AR
+#EXTINF:3 tvg-name="Garage TV | AR" tvg-logo="" is-live="true",Garage TV | AR
+#EXTVLCOPT:network-caching=2000
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
-#EXTINF:3,Net TV | AR
+#EXTINF:3 tvg-name="Net TV | AR" tvg-logo="" is-live="true",Net TV | AR
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Music Top | AR
+#EXTINF:3 tvg-name="Music Top | AR" tvg-logo="" is-live="true",Music Top | AR
+#EXTVLCOPT:network-caching=2000
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-#EXTINF:3,Recuerdos Retro Radio TV | CL
+#EXTINF:3 tvg-name="Recuerdos Retro Radio TV | CL" tvg-logo="" is-live="true",Recuerdos Retro Radio TV | CL
+#EXTVLCOPT:network-caching=2000
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV Señal 2 | CL
+#EXTINF:3 tvg-name="Retro Plus TV Señal 2 | CL" tvg-logo="" is-live="true",Retro Plus TV Señal 2 | CL
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retroclub | AR
+#EXTINF:3 tvg-name="Retroclub | AR" tvg-logo="" is-live="true",Retroclub | AR
+#EXTVLCOPT:network-caching=2000
 https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Noticias Today | AR
+#EXTINF:3 tvg-name="Noticias Today | AR" tvg-logo="" is-live="true",Noticias Today | AR
+#EXTVLCOPT:network-caching=2000
 https://lbgo.bozztv.com/ssh101/ssh101/noticiastoday/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,ZN Noticias | AR
+#EXTINF:3 tvg-name="ZN Noticias | AR" tvg-logo="" is-live="true",ZN Noticias | AR
+#EXTVLCOPT:network-caching=2000
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV Señal 3 | CL
+#EXTINF:3 tvg-name="Retro Plus TV Señal 3 | CL" tvg-logo="" is-live="true",Retro Plus TV Señal 3 | CL
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Inminente TV | AR
+#EXTINF:3 tvg-name="Inminente TV | AR" tvg-logo="" is-live="true",Inminente TV | AR
+#EXTVLCOPT:network-caching=2000
 https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?PlaylistM3UCL
-#EXTINF:3,Sublime Gracia TV | AR
+#EXTINF:3 tvg-name="Sublime Gracia TV | AR" tvg-logo="" is-live="true",Sublime Gracia TV | AR
+#EXTVLCOPT:network-caching=2000
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,PRIDEtv Latam Web
+#EXTINF:3 tvg-name="PRIDEtv Latam Web" tvg-logo="" is-live="true",PRIDEtv Latam Web
+#EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:3,Dreiko TV
+#EXTINF:3 tvg-name="Dreiko TV" tvg-logo="" is-live="true",Dreiko TV
+#EXTVLCOPT:network-caching=2000
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
-#EXTINF:3,EnerGeek Fan Web
+#EXTINF:3 tvg-name="EnerGeek Fan Web" tvg-logo="" is-live="true",EnerGeek Fan Web
+#EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:3,EnerGeek Radio
+#EXTINF:3 tvg-name="EnerGeek Radio" tvg-logo="" is-live="true",EnerGeek Radio
+#EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:3,EnerGeek Retro
+#EXTINF:3 tvg-name="EnerGeek Retro" tvg-logo="" is-live="true",EnerGeek Retro
+#EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:3,ZyoonTV
+#EXTINF:3 tvg-name="ZyoonTV" tvg-logo="" is-live="true",ZyoonTV
+#EXTVLCOPT:network-caching=2000
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Caras TV
+#EXTINF:3 tvg-name="Caras TV" tvg-logo="" is-live="true",Caras TV
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Suyai TV
+#EXTINF:3 tvg-name="Suyai TV" tvg-logo="" is-live="true",Suyai TV
+#EXTVLCOPT:network-caching=2000
 https://cl-2.backend.energeek.cl/SuyaiTV-Neo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-#EXTINF:3,13 go
+#EXTINF:3 tvg-name="13 go" tvg-logo="" is-live="true",13 go
+#EXTVLCOPT:network-caching=2000
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:3,CRTV
+#EXTINF:3 tvg-name="CRTV" tvg-logo="" is-live="true",CRTV
+#EXTVLCOPT:network-caching=2000
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,D13
+#EXTINF:3 tvg-name="D13" tvg-logo="" is-live="true",D13
+#EXTVLCOPT:network-caching=2000
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:3,Drive Channel TV
+#EXTINF:3 tvg-name="Drive Channel TV" tvg-logo="" is-live="true",Drive Channel TV
+#EXTVLCOPT:network-caching=2000
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,FutGO
+#EXTINF:3 tvg-name="FutGO" tvg-logo="" is-live="true",FutGO
+#EXTVLCOPT:network-caching=2000
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
-#EXTINF:3,Garage TV
+#EXTINF:3 tvg-name="Garage TV" tvg-logo="" is-live="true",Garage TV
+#EXTVLCOPT:network-caching=2000
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
-#EXTINF:3,Teletrak
+#EXTINF:3 tvg-name="Teletrak" tvg-logo="" is-live="true",Teletrak
+#EXTVLCOPT:network-caching=2000
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-#EXTINF:3,TV Turf
+#EXTINF:3 tvg-name="TV Turf" tvg-logo="" is-live="true",TV Turf
+#EXTVLCOPT:network-caching=2000
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
-#EXTINF:3,Valparaiso Sporting
+#EXTINF:3 tvg-name="Valparaiso Sporting" tvg-logo="" is-live="true",Valparaiso Sporting
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Geekdot
+#EXTINF:3 tvg-name="Geekdot" tvg-logo="" is-live="true",Geekdot
+#EXTVLCOPT:network-caching=2000
 https://stream.ichibantv.com:3764/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:3,13 Internacional
+#EXTINF:3 tvg-name="13 Internacional" tvg-logo="" is-live="true",13 Internacional
+#EXTVLCOPT:network-caching=2000
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Aljazeera Arabic
+#EXTINF:3 tvg-name="Aljazeera Arabic" tvg-logo="" is-live="true",Aljazeera Arabic
+#EXTVLCOPT:network-caching=2000
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Arirang
+#EXTINF:3 tvg-name="Arirang" tvg-logo="" is-live="true",Arirang
+#EXTVLCOPT:network-caching=2000
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,DW English
+#EXTINF:3 tvg-name="DW English" tvg-logo="" is-live="true",DW English
+#EXTVLCOPT:network-caching=2000
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
-#EXTINF:3,DW Español
+#EXTINF:3 tvg-name="DW Español" tvg-logo="" is-live="true",DW Español
+#EXTVLCOPT:network-caching=2000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Net TV
+#EXTINF:3 tvg-name="Net TV" tvg-logo="" is-live="true",Net TV
+#EXTVLCOPT:network-caching=2000
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,RT Doc
+#EXTINF:3 tvg-name="RT Doc" tvg-logo="" is-live="true",RT Doc
+#EXTVLCOPT:network-caching=2000
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,RT Español
+#EXTINF:3 tvg-name="RT Español" tvg-logo="" is-live="true",RT Español
+#EXTVLCOPT:network-caching=2000
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Supreme Master TV
+#EXTINF:3 tvg-name="Supreme Master TV" tvg-logo="" is-live="true",Supreme Master TV
+#EXTVLCOPT:network-caching=2000
 https://lbs-us1.suprememastertv.com/720p.m3u8?PlaylistM3UCL
-#EXTINF:3,TV Marti
+#EXTINF:3 tvg-name="TV Marti" tvg-logo="" is-live="true",TV Marti
+#EXTVLCOPT:network-caching=2000
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,UCL Televisión LATAM
+#EXTINF:3 tvg-name="UCL Televisión LATAM" tvg-logo="" is-live="true",UCL Televisión LATAM
+#EXTVLCOPT:network-caching=2000
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:3,Cadena Elite
+#EXTINF:3 tvg-name="Cadena Elite" tvg-logo="" is-live="true",Cadena Elite
+#EXTVLCOPT:network-caching=2000
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Canal VM Latino
+#EXTINF:3 tvg-name="Canal VM Latino" tvg-logo="" is-live="true",Canal VM Latino
+#EXTVLCOPT:network-caching=2000
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Carolina TV 2
+#EXTINF:3 tvg-name="Carolina TV 2" tvg-logo="" is-live="true",Carolina TV 2
+#EXTVLCOPT:network-caching=2000
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Conecta TV
+#EXTINF:3 tvg-name="Conecta TV" tvg-logo="" is-live="true",Conecta TV
+#EXTVLCOPT:network-caching=2000
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
-#EXTINF:3,Cumbia TV
+#EXTINF:3 tvg-name="Cumbia TV" tvg-logo="" is-live="true",Cumbia TV
+#EXTVLCOPT:network-caching=2000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/5.m3u8?PlaylistM3UCL
-#EXTINF:3,Eternal Metal
+#EXTINF:3 tvg-name="Eternal Metal" tvg-logo="" is-live="true",Eternal Metal
+#EXTVLCOPT:network-caching=2000
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Euro Indie Music
+#EXTINF:3 tvg-name="Euro Indie Music" tvg-logo="" is-live="true",Euro Indie Music
+#EXTVLCOPT:network-caching=2000
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Factor 80
+#EXTINF:3 tvg-name="Factor 80" tvg-logo="" is-live="true",Factor 80
+#EXTVLCOPT:network-caching=2000
 https://5ff3d9babae13.streamlock.net:443/mjtdyftskj/mjtdyftskj/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Guns n Roses Fans
+#EXTINF:3 tvg-name="Guns n Roses Fans" tvg-logo="" is-live="true",Guns n Roses Fans
+#EXTVLCOPT:network-caching=2000
 https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,La Chilena TV
+#EXTINF:3 tvg-name="La Chilena TV" tvg-logo="" is-live="true",La Chilena TV
+#EXTVLCOPT:network-caching=2000
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:3,Latin Zone TV
+#EXTINF:3 tvg-name="Latin Zone TV" tvg-logo="" is-live="true",Latin Zone TV
+#EXTVLCOPT:network-caching=2000
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:3,Latinos TV
+#EXTINF:3 tvg-name="Latinos TV" tvg-logo="" is-live="true",Latinos TV
+#EXTVLCOPT:network-caching=2000
 https://v4.tustreaming.cl/latinostv/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Los Heat TV
+#EXTINF:3 tvg-name="Los Heat TV" tvg-logo="" is-live="true",Los Heat TV
+#EXTVLCOPT:network-caching=2000
 https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8?PlaylistM3UCL
-#EXTINF:3,M Music TV
+#EXTINF:3 tvg-name="M Music TV" tvg-logo="" is-live="true",M Music TV
+#EXTVLCOPT:network-caching=2000
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Mundo de la Musica TV
+#EXTINF:3 tvg-name="Mundo de la Musica TV" tvg-logo="" is-live="true",Mundo de la Musica TV
+#EXTVLCOPT:network-caching=2000
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Music Top
+#EXTINF:3 tvg-name="Music Top" tvg-logo="" is-live="true",Music Top
+#EXTVLCOPT:network-caching=2000
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-#EXTINF:3,Onda Fiesta
+#EXTINF:3 tvg-name="Onda Fiesta" tvg-logo="" is-live="true",Onda Fiesta
+#EXTVLCOPT:network-caching=2000
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Parentesis TV
+#EXTINF:3 tvg-name="Parentesis TV" tvg-logo="" is-live="true",Parentesis TV
+#EXTVLCOPT:network-caching=2000
 https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Pasion Ranchera
+#EXTINF:3 tvg-name="Pasion Ranchera" tvg-logo="" is-live="true",Pasion Ranchera
+#EXTVLCOPT:network-caching=2000
 https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:3,PlanetaTV
+#EXTINF:3 tvg-name="PlanetaTV" tvg-logo="" is-live="true",PlanetaTV
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Portal FoxMix
+#EXTINF:3 tvg-name="Portal FoxMix" tvg-logo="" is-live="true",Portal FoxMix
+#EXTVLCOPT:network-caching=2000
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Recuerdos Retro Radio TV
+#EXTINF:3 tvg-name="Recuerdos Retro Radio TV" tvg-logo="" is-live="true",Recuerdos Retro Radio TV
+#EXTVLCOPT:network-caching=2000
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV
+#EXTINF:3 tvg-name="Retro Plus TV" tvg-logo="" is-live="true",Retro Plus TV
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV Señal 2
+#EXTINF:3 tvg-name="Retro Plus TV Señal 2" tvg-logo="" is-live="true",Retro Plus TV Señal 2
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Retromusica Television
+#EXTINF:3 tvg-name="Retromusica Television" tvg-logo="" is-live="true",Retromusica Television
+#EXTVLCOPT:network-caching=2000
 https://vdochile.com:3864/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:3,Rewind Music Channel
+#EXTINF:3 tvg-name="Rewind Music Channel" tvg-logo="" is-live="true",Rewind Music Channel
+#EXTVLCOPT:network-caching=2000
 https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
-#EXTINF:3,Ruidos TV
+#EXTINF:3 tvg-name="Ruidos TV" tvg-logo="" is-live="true",Ruidos TV
+#EXTVLCOPT:network-caching=2000
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL
-#EXTINF:3,Salsa TV
+#EXTINF:3 tvg-name="Salsa TV" tvg-logo="" is-live="true",Salsa TV
+#EXTVLCOPT:network-caching=2000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8?PlaylistM3UCL
-#EXTINF:3,http://45.4.3.190:8087/4d48db09-0b1e-4803-8da7-22be388bdd7e/oembed.json
+#EXTINF:3 tvg-name="http://45.4.3.190:8087/4d48db09-0b1e-4803-8da7-22be388bdd7e/oembed.json" tvg-logo="" is-live="true",http://45.4.3.190:8087/4d48db09-0b1e-4803-8da7-22be388bdd7e/oembed.json
+#EXTVLCOPT:network-caching=2000
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL
-#EXTINF:3,Soy Plancha TV
+#EXTINF:3 tvg-name="Soy Plancha TV" tvg-logo="" is-live="true",Soy Plancha TV
+#EXTVLCOPT:network-caching=2000
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Top TV
+#EXTINF:3 tvg-name="Top TV" tvg-logo="" is-live="true",Top TV
+#EXTVLCOPT:network-caching=2000
 https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Turbo Mix TV
+#EXTINF:3 tvg-name="Turbo Mix TV" tvg-logo="" is-live="true",Turbo Mix TV
+#EXTVLCOPT:network-caching=2000
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:3,TV vconline.cl
+#EXTINF:3 tvg-name="TV vconline.cl" tvg-logo="" is-live="true",TV vconline.cl
+#EXTVLCOPT:network-caching=2000
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Urban Pro DJ
+#EXTINF:3 tvg-name="Urban Pro DJ" tvg-logo="" is-live="true",Urban Pro DJ
+#EXTVLCOPT:network-caching=2000
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:3,Urban TV
+#EXTINF:3 tvg-name="Urban TV" tvg-logo="" is-live="true",Urban TV
+#EXTVLCOPT:network-caching=2000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/4.m3u8?PlaylistM3UCL
-#EXTINF:3,Urbano TV
+#EXTINF:3 tvg-name="Urbano TV" tvg-logo="" is-live="true",Urbano TV
+#EXTVLCOPT:network-caching=2000
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,VClassicTV
+#EXTINF:3 tvg-name="VClassicTV" tvg-logo="" is-live="true",VClassicTV
+#EXTVLCOPT:network-caching=2000
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,VClassicTV Tropical
+#EXTINF:3 tvg-name="VClassicTV Tropical" tvg-logo="" is-live="true",VClassicTV Tropical
+#EXTVLCOPT:network-caching=2000
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Video Tour Channel
+#EXTINF:3 tvg-name="Video Tour Channel" tvg-logo="" is-live="true",Video Tour Channel
+#EXTVLCOPT:network-caching=2000
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Vintage Music
+#EXTINF:3 tvg-name="Vintage Music" tvg-logo="" is-live="true",Vintage Music
+#EXTVLCOPT:network-caching=2000
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Vision Musica TV
+#EXTINF:3 tvg-name="Vision Musica TV" tvg-logo="" is-live="true",Vision Musica TV
+#EXTVLCOPT:network-caching=2000
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL
-#EXTINF:3,Voice Over Radio TV
+#EXTINF:3 tvg-name="Voice Over Radio TV" tvg-logo="" is-live="true",Voice Over Radio TV
+#EXTVLCOPT:network-caching=2000
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
-#EXTINF:3,AMX Noticias
+#EXTINF:3 tvg-name="AMX Noticias" tvg-logo="" is-live="true",AMX Noticias
+#EXTVLCOPT:network-caching=2000
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,CHV Noticias
+#EXTINF:3 tvg-name="CHV Noticias" tvg-logo="" is-live="true",CHV Noticias
+#EXTVLCOPT:network-caching=2000
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,RT News
+#EXTINF:3 tvg-name="RT News" tvg-logo="" is-live="true",RT News
+#EXTVLCOPT:network-caching=2000
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,T13
+#EXTINF:3 tvg-name="T13" tvg-logo="" is-live="true",T13
+#EXTVLCOPT:network-caching=2000
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,TVE 24H
+#EXTINF:3 tvg-name="TVE 24H" tvg-logo="" is-live="true",TVE 24H
+#EXTVLCOPT:network-caching=2000
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
-#EXTINF:3,ZN Noticias
+#EXTINF:3 tvg-name="ZN Noticias" tvg-logo="" is-live="true",ZN Noticias
+#EXTVLCOPT:network-caching=2000
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Kanal D Drama
+#EXTINF:3 tvg-name="Kanal D Drama" tvg-logo="" is-live="true",Kanal D Drama
+#EXTVLCOPT:network-caching=2000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Oli TV
+#EXTINF:3 tvg-name="Oli TV" tvg-logo="" is-live="true",Oli TV
+#EXTVLCOPT:network-caching=2000
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-#EXTINF:3,Retro Plus TV Señal 3
+#EXTINF:3 tvg-name="Retro Plus TV Señal 3" tvg-logo="" is-live="true",Retro Plus TV Señal 3
+#EXTVLCOPT:network-caching=2000
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,WOW TV
+#EXTINF:3 tvg-name="WOW TV" tvg-logo="" is-live="true",WOW TV
+#EXTVLCOPT:network-caching=2000
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:3,Cloudflare TV
+#EXTINF:3 tvg-name="Cloudflare TV" tvg-logo="" is-live="true",Cloudflare TV
+#EXTVLCOPT:network-caching=2000
 https://cloudflare.tv/hls/live.m3u8?PlaylistM3UCL
-#EXTINF:3,Cocinando TV
+#EXTINF:3 tvg-name="Cocinando TV" tvg-logo="" is-live="true",Cocinando TV
+#EXTVLCOPT:network-caching=2000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/10.m3u8?PlaylistM3UCL
-#EXTINF:3,Media TV
+#EXTINF:3 tvg-name="Media TV" tvg-logo="" is-live="true",Media TV
+#EXTVLCOPT:network-caching=2000
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/3.m3u8?PlaylistM3UCL
-#EXTINF:3,Platzi TV
+#EXTINF:3 tvg-name="Platzi TV" tvg-logo="" is-live="true",Platzi TV
+#EXTVLCOPT:network-caching=2000
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8?PlaylistM3UCL
-#EXTINF:3,PRIDEtv Latam Web
+#EXTINF:3 tvg-name="PRIDEtv Latam Web" tvg-logo="" is-live="true",PRIDEtv Latam Web
+#EXTVLCOPT:network-caching=2000
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
