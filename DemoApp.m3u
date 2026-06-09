@@ -17,16 +17,17 @@ https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn5&token=tecnotok
 #EXTINF:0tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png"  ,ESPN 6
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj",DS SPORT
-#EXTVLCOPT:network-caching=1000
-https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsport&token=tecnotokenplustv230516F
-#EXTINF:0,DS SPORT 2
+
+
+#EXTINF:0 tvg-logo="https://futboltvlibre.liveblog365.com/wp-content/uploads/2023/11/dsports2.png" ,DS SPORT 2
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsports2&token=tecnotokenplustv230516F
-#EXTINF:0,DS SPORT PLUS
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMox3syXH1w8KqA_cTnR07nhROukXUsOMKw&s",DS SPORT PLUS
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
-#EXTINF:0,ECDF LigaPro (eventos)
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/dLGLySicETdqfbPyej0ecjDJOOvPR9vCjipvdFVdImuVJcT_NXZgc7PACd_jz1ZOfsKA",ECDF LigaPro (eventos)
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=ecdf_ligapro&token=tecnotokenplustv230516F
 #EXTINF:22,Fox Sports
