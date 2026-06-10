@@ -19,7 +19,7 @@ https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn5&token=tecnotok
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8SG7InBUR1yMgPVhkZ-MDc-K2L6nVYS1aw&s" ,DS SPORT 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" ,DS SPORT 2
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsports2&token=tecnotokenplustv230516F
 
@@ -29,19 +29,21 @@ https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=dsportsplus&token=te
 
 
 
-#EXTINF:22,Fox Sports
+#EXTINF:22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fox_Sports_Argentina_2026.webp/250px-Fox_Sports_Argentina_2026.webp.png",Fox Sports
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxsports&token=tecnotokenplustv230516F
-#EXTINF:0,Fox Sports 2
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/330px-Fox_Sports_2_Argentina_2023.svg.png",Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxsports2&token=tecnotokenplustv230516F
-#EXTINF:0,Fox Sports 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/3840px-Fox_Sports_3_Argentina_2023.svg.png" ,Fox Sports 3
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=foxsports3&token=tecnotokenplustv230516F
-#EXTINF:0,TNT Sports
+
+#EXTINF:0 tvg-logo="https://television.com.ar/wp-content/uploads/2024/06/Tnt-sports.jpg" ,TNT Sports
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=tntsports&token=tecnotokenplustv230516F
-#EXTINF:0,ESPN Premium
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg",ESPN Premium
 #EXTVLCOPT:network-caching=1000
 https://tecnotv.club/jbvk/phpcode/deportesla14hd.php?stream=espnpremium&token=tecnotokenplustv230516F
 #EXTINF:22,tyc_sports
